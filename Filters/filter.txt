@@ -3,7 +3,7 @@
 ! Description: Filter composed of several other filters (AdGuard Base filter, Social media filter, Tracking Protection filter, Mobile ads filter, EasyList, EasyPrivacy, etc) and simplified specifically to be better compatible with DNS-level ad blocking.
 ! Homepage: https://github.com/AdguardTeam/AdguardSDNSFilter
 ! License: https://github.com/AdguardTeam/AdguardSDNSFilter/blob/master/LICENSE
-! Last modified: 2020-12-07T15:11:29.353Z
+! Last modified: 2020-12-07T15:43:16.811Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.8
 !
@@ -61,7 +61,6 @@
 ||dormyawape.com^
 ||smart-redirecting.com^
 ||pkt.urmovs.com^
-||oodsauns.net^
 ||b.domnlk.com^
 ||setpadchat.com^
 ||1ts18.top^
@@ -119,7 +118,6 @@
 ||pub.contexthub.net^
 ||paybackvocal.com^
 ||contexthub.net^
-||nortaumi.net^
 ||partiesrelyfoliage.com^
 ||gotchosen.com^
 ||lightingfleeventures.com^
@@ -3615,6 +3613,7 @@ vkcdnservice.appspot.com^
 ||buglethemfouls.casa^
 ||buhatfjrk9dje10eme.com^
 ||buildhoodpip.club^
+||bulbsanctify.com^
 ||bullads.net^
 ||bulldogdemocracy.com^
 ||bulletindualpartial.com^
@@ -5228,6 +5227,7 @@ vkcdnservice.appspot.com^
 ||fahimpace.pro^
 ||faigroas.net^
 ||faindianship.club^
+||fairieflame.com^
 ||fairnessels.com^
 ||fairnessenhancedisposal.com^
 ||fairyceiling.com^
@@ -5399,6 +5399,7 @@ vkcdnservice.appspot.com^
 ||fleckspoken.com^
 ||flexknfp.com^
 ||flipy6sudy.com^
+||flixcontentshop.com^
 ||flloczhqdkn.com^
 ||flmuqa.com^
 ||flmyidbnljphko.com^
@@ -6021,6 +6022,7 @@ vkcdnservice.appspot.com^
 ||hcmjlsxhebb.com^
 ||hcrwnoaqe.com^
 ||hcskwstr.com^
+||hcwaxejunyzvxt.com^
 ||hcwdcintgl.com^
 ||hdcqfqnn.com^
 ||hdeslibzcv.com^
@@ -6092,6 +6094,7 @@ vkcdnservice.appspot.com^
 ||highprofitnetwork.com^
 ||highwayprinting.com^
 ||hikvar.ru^
+||hikyceti.pro^
 ||himekingrow.com^
 ||himizoli.pro^
 ||himselvepostly.site^
@@ -7928,6 +7931,7 @@ vkcdnservice.appspot.com^
 ||moulieres.xyz^
 ||mouuhrprxixwrw.com^
 ||moveadrenaline.com^
+||movfull.com^
 ||movie-pass.club^
 ||movie-pass.live^
 ||moviemediahub.com^
@@ -8315,6 +8319,7 @@ vkcdnservice.appspot.com^
 ||noqj1iz4u28t.com^
 ||norakseemlyntr.info^
 ||normugtog.com^
+||nortaumi.net^
 ||northeregikgf.club^
 ||northernintimate.com^
 ||northinmatedepression.com^
@@ -8675,6 +8680,7 @@ vkcdnservice.appspot.com^
 ||onwaysebuj.site^
 ||onxxyeoyes.com^
 ||onysociate.club^
+||oodsauns.net^
 ||oojthlwtlu.com^
 ||ookedapp.club^
 ||ookiqhfioldxwj.com^
@@ -8902,6 +8908,7 @@ vkcdnservice.appspot.com^
 ||parsruingmeld.com^
 ||particlesmanuscript.com^
 ||particularmadam.com^
+||partitiondetergenttumor.com^
 ||partouba.com^
 ||parwrite.com^
 ||pasaigul.com^
@@ -10440,6 +10447,7 @@ vkcdnservice.appspot.com^
 ||skxgvqcgefyy.com^
 ||sl1me.com^
 ||slabshookwasted.com^
+||slashstar.net^
 ||slaveforgetfulsneak.com^
 ||slavesfraudulent.com^
 ||slectrumclarat.fun^
@@ -11822,6 +11830,7 @@ vkcdnservice.appspot.com^
 ||wawyxzfkab.com^
 ||waxpigbaa.com^
 ||waxtamnit.com^
+||wayfarerspoutpraise.com^
 ||waynagmay.com^
 ||waypresentsstud.com^
 ||waysinbeg.com^
@@ -12499,6 +12508,7 @@ vkcdnservice.appspot.com^
 ||yoomanies.com^
 ||yoqpnkhl.com^
 ||youearrid.com^
+||yourfreshposts.com^
 ||yourwebbars.com^
 ||yowlcapkegs.com^
 ||ypecfkbqgldzq.com^
