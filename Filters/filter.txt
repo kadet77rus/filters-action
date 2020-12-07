@@ -3,7 +3,7 @@
 ! Description: Filter composed of several other filters (AdGuard Base filter, Social media filter, Tracking Protection filter, Mobile ads filter, EasyList, EasyPrivacy, etc) and simplified specifically to be better compatible with DNS-level ad blocking.
 ! Homepage: https://github.com/AdguardTeam/AdguardSDNSFilter
 ! License: https://github.com/AdguardTeam/AdguardSDNSFilter/blob/master/LICENSE
-! Last modified: 2020-12-07T22:12:44.103Z
+! Last modified: 2020-12-07T23:04:48.687Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.8
 !
@@ -19926,7 +19926,6 @@ vkcdnservice.appspot.com^
 ||zippywind.com^
 ||shopbreakfast.com^
 ||flimsythought.com^
-||materialmoon.com^
 ||defiantrice.com^
 ||ruddycast.com^
 ||preciousyoke.com^
@@ -24537,6 +24536,7 @@ charlestownwyllie.oaklawnnonantum.com^
 ||magnetairport.com^
 ||markedmeasure.com^
 ||massivemark.com^
+||materialmoon.com^
 ||meatydime.com^
 ||memorizeneck.com^
 ||movemeal.com^
