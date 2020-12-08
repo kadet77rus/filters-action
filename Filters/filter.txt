@@ -3,7 +3,7 @@
 ! Description: Filter composed of several other filters (AdGuard Base filter, Social media filter, Tracking Protection filter, Mobile ads filter, EasyList, EasyPrivacy, etc) and simplified specifically to be better compatible with DNS-level ad blocking.
 ! Homepage: https://github.com/AdguardTeam/AdguardSDNSFilter
 ! License: https://github.com/AdguardTeam/AdguardSDNSFilter/blob/master/LICENSE
-! Last modified: 2020-12-07T23:04:48.687Z
+! Last modified: 2020-12-08T00:12:16.586Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.8
 !
@@ -19466,11 +19466,6 @@ vkcdnservice.appspot.com^
 !
 ! https://github.com/easylist/easylist/commit/a4d380ad1a3b33a0fab679a1a8c5a791321622b3
 ||functionalclam.com^
-!
-! Admiral domains
-! These domains are used for tracking purposes according to the data that is being sent there.
-! More info: https://getadmiral.com/products/measure
-||stiffgame.com^
 ||blushingbeast.com^
 ||observantice.com^
 ||balloonbit.com^
@@ -24565,6 +24560,7 @@ charlestownwyllie.oaklawnnonantum.com^
 ||profitrumour.com^
 ||profusesupport.com^
 ||puffyloss.com^
+||puffypaste.com^
 ||puffypull.com^
 ||puffypurpose.com^
 ||q20jqurls0y7gk8.info^
@@ -24632,6 +24628,7 @@ charlestownwyllie.oaklawnnonantum.com^
 ||steadfastsound.com^
 ||steepsquirrel.com^
 ||stepplane.com^
+||stiffgame.com^
 ||stiffstem.com^
 ||storesurprise.com^
 ||stormyachiever.com^
