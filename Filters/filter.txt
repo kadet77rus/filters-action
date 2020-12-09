@@ -3,7 +3,7 @@
 ! Description: Filter composed of several other filters (AdGuard Base filter, Social media filter, Tracking Protection filter, Mobile ads filter, EasyList, EasyPrivacy, etc) and simplified specifically to be better compatible with DNS-level ad blocking.
 ! Homepage: https://github.com/AdguardTeam/AdguardSDNSFilter
 ! License: https://github.com/AdguardTeam/AdguardSDNSFilter/blob/master/LICENSE
-! Last modified: 2020-12-09T10:12:32.786Z
+! Last modified: 2020-12-09T11:05:03.898Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.8
 !
@@ -13401,6 +13401,7 @@ vkcdnservice.appspot.com^
 ||adult-adv.com^
 ||adultimate.net^
 ||adulttds.com^
+||adup-tech.com^
 ||adurr.com^
 ||adv-adserver.com^
 ||adv9.net^
@@ -13591,6 +13592,7 @@ vkcdnservice.appspot.com^
 ||alphagodaddy.com^
 ||alternads.info^
 ||alternativeadverts.com^
+||altrk.net^
 ||am-display.com^
 ||am10.ru^
 ||am11.ru^
@@ -13635,6 +13637,7 @@ vkcdnservice.appspot.com^
 ||appnext.com^
 ||apportium.com^
 ||approp.pro^
+||apprupt.com^
 ||apptap.com^
 ||appwebview.com^
 ||apsmediaagency.com^
@@ -14510,6 +14513,7 @@ vkcdnservice.appspot.com^
 ||erberos.xyz^
 ||eredexpendin.com^
 ||erendri.com^
+||erovation.com^
 ||erovinmo.com^
 ||ersremarypiec.info^
 ||erssamplet.pro^
@@ -16320,6 +16324,7 @@ vkcdnservice.appspot.com^
 ||s.adroll.com^
 ||s20dh7e9dh.com^
 ||s24hc8xzag.com^
+||s2block.com^
 ||s2blosh.com^
 ||s2d6.com^
 ||sa.entireweb.com^
@@ -17155,6 +17160,7 @@ vkcdnservice.appspot.com^
 ||yieldmanager.com^
 ||yieldoptimizer.com^
 ||yieldpass.com^
+||yieldscale.com^
 ||yieldselect.com^
 ||yieldtraffic.com^
 ||yieldx.com^
@@ -32440,7 +32446,6 @@ adbetnet.com
 ||adspirit.net^
 ||adsplash.de^
 ||adsushi.de^
-||adup-tech.com^
 ||advendi.de^
 ||advert-layer.de^
 ||adverticus.de^
@@ -32461,12 +32466,10 @@ adbetnet.com
 ||affimax.de^
 ||agaso.de^
 ||allads4you.de^
-||altrk.net^
 ||amunx.de^
 ||andite.tk^
 ||anzeigen-vor-ort.de^
 ||anzeigenlieferant.de^
-||apprupt.com^
 ||arcor-partner.de^
 ||as997.de^
 ||asnetworks.de^
@@ -32508,7 +32511,6 @@ adbetnet.com
 ||ebesucher.de^
 ||echtebesucher.de^
 ||eeewax.de^
-||erovation.com^
 ||eset-affiliate.de^
 ||et.twyn.com^
 ||ethnarc.de^
@@ -32620,7 +32622,6 @@ adbetnet.com
 ||rgadvert.com^
 ||rockvertise.net^
 ||rubrikator.de^
-||s2block.com^
 ||scash.de^
 ||schlauli.de^
 ||selfpuc.com^
@@ -32679,7 +32680,6 @@ adbetnet.com
 ||wz-werbewelt.de^
 ||xaded.de^
 ||xiji.de^
-||yieldscale.com^
 ||yoomedia.de^
 ||youads.de^
 ||z0a.de^
