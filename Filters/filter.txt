@@ -3,7 +3,7 @@
 ! Description: Filter composed of several other filters (AdGuard Base filter, Social media filter, Tracking Protection filter, Mobile ads filter, EasyList, EasyPrivacy, etc) and simplified specifically to be better compatible with DNS-level ad blocking.
 ! Homepage: https://github.com/AdguardTeam/AdguardSDNSFilter
 ! License: https://github.com/AdguardTeam/AdguardSDNSFilter/blob/master/LICENSE
-! Last modified: 2020-12-11T09:04:37.648Z
+! Last modified: 2020-12-11T10:05:27.561Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.8
 !
@@ -36739,6 +36739,8 @@ adbetnet.com
 ||runkao.net^
 ||stunninglover.com^
 ||watakaw133.xyz^
+||mxhbkj.cn^
+||ububyiw6655.xyz^
 ||ohthub.com.cn^
 ||jtwlj.cn^
 ||01w47q.cn^
