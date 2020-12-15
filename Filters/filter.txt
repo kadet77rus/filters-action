@@ -3,7 +3,7 @@
 ! Description: Filter composed of several other filters (AdGuard Base filter, Social media filter, Tracking Protection filter, Mobile ads filter, EasyList, EasyPrivacy, etc) and simplified specifically to be better compatible with DNS-level ad blocking.
 ! Homepage: https://github.com/AdguardTeam/AdguardSDNSFilter
 ! License: https://github.com/AdguardTeam/AdguardSDNSFilter/blob/master/LICENSE
-! Last modified: 2020-12-15T03:04:57.138Z
+! Last modified: 2020-12-15T04:05:27.387Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.8
 !
@@ -33699,8 +33699,6 @@ adbetnet.com
 ! Source name: EasyList China ad servers
 ! Source: https://easylist-downloads.adblockplus.org/easylistchina.txt
 !
-||mtav1.com^
-||bolimen.top^
 ||00-gov.cn^
 ||0024aaaa.com^
 ||00880808.com^
@@ -34065,6 +34063,7 @@ adbetnet.com
 ||blogdaka.xyz^
 ||bnq86.com^
 ||bole.asia^
+||bolimen.top^
 ||borsendental.com^
 ||bosatria.cn^
 ||bosiwangzi.cn^
@@ -34825,6 +34824,7 @@ adbetnet.com
 ||msltzer.cn^
 ||msspgw.cn^
 ||msujd.cn^
+||mtav1.com^
 ||mtqys.com^
 ||mu722.com^
 ||mxdregs.com^
@@ -35783,6 +35783,7 @@ adbetnet.com
 ||cacafly.net^
 ||cachead.com^*.js
 ||cdgfa.ifeng.com^
+||cdn.imvkan.com^
 ||cdn.wuyou.ca^
 ||cdnjjvcd.com^*.php
 ||chidir.com^
@@ -36026,7 +36027,6 @@ adbetnet.com
 ||zhimg.com^*adx
 ||zt2088.com^
 ||ztyumn.ifeng.com^
-||cdn.imvkan.com^
 @@||95599.cn^*ad
 @@||abchina.com^*ad
 @@||ad.10010.com^
@@ -36800,9 +36800,6 @@ adbetnet.com
 ||runkao.net^
 ||stunninglover.com^
 ||watakaw133.xyz^
-||qkykxrm.cn^
-||xuenengyoujiaoyu.com^
-||kangerlu.com^
 ||01w47q.cn^
 ||0217qpineuxbcdhopswkvf.xyz^
 ||0224fqpowiuxybnmvdfghj.xyz^
@@ -37873,6 +37870,7 @@ adbetnet.com
 ||kaihutai.cn^
 ||kakam.info^
 ||kakappp.com^
+||kangerlu.com^
 ||kanghuaixin.cn^
 ||kanjiaqun.cn^
 ||kantv.pub^
@@ -38248,6 +38246,7 @@ adbetnet.com
 ||qjueu.com^
 ||qjxszp.cn^
 ||qkptx.com^
+||qkykxrm.cn^
 ||qlaot.com^
 ||qlssbq.cn^
 ||qmlcdlo.cn^
@@ -38747,6 +38746,7 @@ adbetnet.com
 ||xswfkco.cn^
 ||xsyouwei.cn^
 ||xt725.cn^
+||xuenengyoujiaoyu.com^
 ||xujx8.com^
 ||xunhuaji.cn^
 ||xurizhongguo.cn^
