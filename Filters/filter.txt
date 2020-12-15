@@ -3,7 +3,7 @@
 ! Description: Filter composed of several other filters (AdGuard Base filter, Social media filter, Tracking Protection filter, Mobile ads filter, EasyList, EasyPrivacy, etc) and simplified specifically to be better compatible with DNS-level ad blocking.
 ! Homepage: https://github.com/AdguardTeam/AdguardSDNSFilter
 ! License: https://github.com/AdguardTeam/AdguardSDNSFilter/blob/master/LICENSE
-! Last modified: 2020-12-15T12:07:21.626Z
+! Last modified: 2020-12-15T13:07:28.501Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.8
 !
@@ -32792,6 +32792,7 @@ adbetnet.com
 ||advit.it^
 ||advplace.com^
 ||affiliago.it^
+||affiliation.software^
 ||affiliationpartner.it^
 ||affiliazioni.me^
 ||affiliazioniweb.com^
@@ -36831,6 +36832,8 @@ adbetnet.com
 ||runkao.net^
 ||stunninglover.com^
 ||watakaw133.xyz^
+||aodepuo.cn^
+||maro30.com^
 ||xuyssur.cn^
 ||01w47q.cn^
 ||0217qpineuxbcdhopswkvf.xyz^
