@@ -3,7 +3,7 @@
 ! Description: Filter composed of several other filters (AdGuard Base filter, Social media filter, Tracking Protection filter, Mobile ads filter, EasyList, EasyPrivacy, etc) and simplified specifically to be better compatible with DNS-level ad blocking.
 ! Homepage: https://github.com/AdguardTeam/AdguardSDNSFilter
 ! License: https://github.com/AdguardTeam/AdguardSDNSFilter/blob/master/LICENSE
-! Last modified: 2020-12-15T10:06:23.493Z
+! Last modified: 2020-12-15T11:08:22.560Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.8
 !
@@ -7272,6 +7272,7 @@ vkcdnservice.appspot.com^
 ||leagent.info^
 ||leakypatgoo.com^
 ||learliamtempl.fun^
+||learningaware.com^
 ||learnshaw.info^
 ||leathtexactlycin.info^
 ||leavilysover.site^
@@ -9865,6 +9866,7 @@ vkcdnservice.appspot.com^
 ||rentsincrea.top^
 ||rentwillionc.club^
 ||reojou.com^
+||reopenmetresubstance.com^
 ||reorganizewallet.com^
 ||reounzbqylugud.com^
 ||repairedtightslavishness.com^
@@ -10365,6 +10367,7 @@ vkcdnservice.appspot.com^
 ||seuojaesymeriv.com^
 ||sevenialfeminde.fun^
 ||sevening.club^
+||sevenrumblepunishment.com^
 ||seventual.site^
 ||severalpros.info^
 ||severymurden.site^
