@@ -3,7 +3,7 @@
 ! Description: Filter composed of several other filters (AdGuard Base filter, Social media filter, Tracking Protection filter, Mobile ads filter, EasyList, EasyPrivacy, etc) and simplified specifically to be better compatible with DNS-level ad blocking.
 ! Homepage: https://github.com/AdguardTeam/AdguardSDNSFilter
 ! License: https://github.com/AdguardTeam/AdguardSDNSFilter/blob/master/LICENSE
-! Last modified: 2020-12-15T04:05:27.387Z
+! Last modified: 2020-12-15T05:04:31.736Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.8
 !
@@ -119,7 +119,6 @@
 ||tauptoat.com^
 ||hamlipboat.com^
 ||pub.contexthub.net^
-||paybackvocal.com^
 ||contexthub.net^
 ||partiesrelyfoliage.com^
 ||gotchosen.com^
@@ -5777,6 +5776,7 @@ vkcdnservice.appspot.com^
 ||gludraus.com^
 ||glumpaul.net^
 ||gluokdhafryxtw.com^
+||gmdsyfvwmqitz.com^
 ||gmjhwyby.com^
 ||gmzaaeenp.com^
 ||gnamwmixa.com^
@@ -8930,6 +8930,7 @@ vkcdnservice.appspot.com^
 ||pasaigul.com^
 ||paservices.tech^
 ||passeseuro.com^
+||passgen.icu^
 ||passioncrunchfingernail.com^
 ||passivemarcoanyhow.com^
 ||pasturecompelscreen.com^
@@ -8949,6 +8950,7 @@ vkcdnservice.appspot.com^
 ||pavfhwwddf.com^
 ||pawheatyous.com^
 ||pay2clik.cf^
+||paybackvocal.com^
 ||paymentdeceasedcommence.com^
 ||paysoxemgjqp.com^
 ||pb5oqguywycj.com^
@@ -9690,6 +9692,7 @@ vkcdnservice.appspot.com^
 ||raenfh9tkuka.com^
 ||ragenessed.top^
 ||railroadheroicgold.com^
+||railroadtomato.com^
 ||railwaysupper.com^
 ||raisingglisten.com^
 ||raivikod.net^
@@ -9807,6 +9810,7 @@ vkcdnservice.appspot.com^
 ||reflectionsforeground.com^
 ||refnippod.com^
 ||reforeightolikm.site^
+||refreshscoundreltendon.com^
 ||refunsiy.net^
 ||refyewdye.com^
 ||regarden.club^
@@ -10099,6 +10103,7 @@ vkcdnservice.appspot.com^
 ||rtserversp.fun^
 ||rtymarvingp.top^
 ||ruamupr.com^
+||rubcomplaintdimly.com^
 ||rubfwmlm.com^
 ||rubicwithias.club^
 ||ruebmqxqlqwqq.com^
@@ -11648,6 +11653,7 @@ vkcdnservice.appspot.com^
 ||vggxxhton.com^
 ||vghjsrae.com^
 ||vgjwkjinwkud.com^
+||vgkknrbzwfau.com^
 ||vgnlhfdkmcdc.com^
 ||vgodvvcwrshk.com^
 ||vgszcaszzef.com^
