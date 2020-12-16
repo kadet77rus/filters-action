@@ -3,7 +3,7 @@
 ! Description: Filter composed of several other filters (AdGuard Base filter, Social media filter, Tracking Protection filter, Mobile ads filter, EasyList, EasyPrivacy, etc) and simplified specifically to be better compatible with DNS-level ad blocking.
 ! Homepage: https://github.com/AdguardTeam/AdguardSDNSFilter
 ! License: https://github.com/AdguardTeam/AdguardSDNSFilter/blob/master/LICENSE
-! Last modified: 2020-12-16T03:04:45.521Z
+! Last modified: 2020-12-16T04:05:47.684Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.8
 !
@@ -22,7 +22,6 @@
 ||partymidge.com^
 ||prosperitypartying.com^
 ||flashingactshrs.com^
-||morguecountryportray.com^
 ||overboardinclose.com^
 ||hotideiasnetwork.ml^
 ||s.bigbolz.com^
@@ -2973,6 +2972,7 @@ vkcdnservice.appspot.com^
 ||appropeanes.club^
 ||approped.club^
 ||appropolyfunt.site^
+||approvalglamourduly.com^
 ||appstoore.online^
 ||aptaleant.club^
 ||apus.tech^
@@ -7971,6 +7971,7 @@ vkcdnservice.appspot.com^
 ||moradu.com^
 ||morazormands.site^
 ||morderedouih.club^
+||morguecountryportray.com^
 ||morningsophisticatedcenter.com^
 ||mortalunacceptable.com^
 ||mortantameron.club^
@@ -10799,6 +10800,7 @@ vkcdnservice.appspot.com^
 ||suitarserviku.site^
 ||suitesbahrag.icu^
 ||suitsoon.com^
+||sulphursceneryhenceforward.com^
 ||sultiyearsena.site^
 ||sultrycommiserate.com^
 ||sulxddttj.com^
@@ -12561,6 +12563,7 @@ vkcdnservice.appspot.com^
 ||yguuoibdsscki.com^
 ||ygvuinirwqnl.com^
 ||ygzkedoxwhqlzp.com^
+||yhaxlxpuwl.com^
 ||yhaztdufgmw.com^
 ||yhljenkljge.com^
 ||yhmbwgolijyac.com^
@@ -36888,6 +36891,7 @@ adbetnet.com
 ||stunninglover.com^
 ||watakaw133.xyz^
 ||fjylcy.com^
+||nmlhkj.com^
 ||01w47q.cn^
 ||0217qpineuxbcdhopswkvf.xyz^
 ||0224fqpowiuxybnmvdfghj.xyz^
