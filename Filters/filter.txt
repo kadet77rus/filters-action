@@ -3,7 +3,7 @@
 ! Description: Filter composed of several other filters (AdGuard Base filter, Social media filter, Tracking Protection filter, Mobile ads filter, EasyList, EasyPrivacy, etc) and simplified specifically to be better compatible with DNS-level ad blocking.
 ! Homepage: https://github.com/AdguardTeam/AdguardSDNSFilter
 ! License: https://github.com/AdguardTeam/AdguardSDNSFilter/blob/master/LICENSE
-! Last modified: 2020-12-17T02:17:13.529Z
+! Last modified: 2020-12-17T03:04:47.715Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.8
 !
@@ -2237,6 +2237,7 @@ vkcdnservice.appspot.com^
 ||273920d845b.com^
 ||2778255fe56.com^
 ||27vckaccbto7p761.pro^
+||28570a644a.com^
 ||2894c9d5b32.com^
 ||29ae58661b9c7178.com^
 ||29d65cebb82ef9f.com^
@@ -2430,6 +2431,7 @@ vkcdnservice.appspot.com^
 ||6e2f1d2ae033.com^
 ||6ea56485aed0c.com^
 ||6ed0a6630b.com^
+||6f1dba68f65.com^
 ||6f2bdffd6587d.com^
 ||6f363e072e82206b.com^
 ||6f7mh6hfro.buzz^
@@ -2925,6 +2927,7 @@ vkcdnservice.appspot.com^
 ||andorranisas.xyz^
 ||andvqrqaeu.com^
 ||anelexpres.club^
+||anerqdd.ga^
 ||anglended.club^
 ||anglishreasts.site^
 ||animosityluxurioussack.com^
@@ -3223,6 +3226,7 @@ vkcdnservice.appspot.com^
 ||b400393baba7cd476a3.com^
 ||b4q982rbqdsw.com^
 ||b56f9c50130def4d.com^
+||b57acfcd767.com^
 ||b59812ee54afcabd.com^
 ||b5ae848728034caddca.com^
 ||b6aa6257a22451c.com^
@@ -4030,6 +4034,7 @@ vkcdnservice.appspot.com^
 ||contalyze.com^
 ||contaminatedefendantedifice.com^
 ||contentiakol.club^
+||contestdestiny.com^
 ||continelyfas.site^
 ||contrarysignificancedolls.com^
 ||contreventaient.website^
@@ -7654,6 +7659,7 @@ vkcdnservice.appspot.com^
 ||malpacascal.space^
 ||mammalrussia.com^
 ||mamphxagal.com^
+||managesdancing.com^
 ||managining.club^
 ||manatomicbru.site^
 ||manbragshep.com^
@@ -9992,6 +9998,7 @@ vkcdnservice.appspot.com^
 ||rightiescolled.club^
 ||rightnativecontent.com^
 ||rightstaredstun.com^
+||rigourcrispblaspheme.com^
 ||rigybdgiubwqg.com^
 ||rilelogicbuy.com^
 ||rimezvsto.com^
@@ -10164,6 +10171,7 @@ vkcdnservice.appspot.com^
 ||rvbxnnwdsi.com^
 ||rvdiwgntri.com^
 ||rviceschoolr.club^
+||rvkfiomrjn.com^
 ||rvlzsbmshtt.com^
 ||rvnpytnhxppkzv.com^
 ||rvqfpfgzmw.com^
@@ -10614,6 +10622,7 @@ vkcdnservice.appspot.com^
 ||special-promotions.online^
 ||specialityparentalconcluded.com^
 ||speciesdecency.com^
+||specificallydoubtless.com^
 ||specifican.club^
 ||specimense.club^
 ||specimensspittleentrepreneur.com^
@@ -11983,6 +11992,7 @@ vkcdnservice.appspot.com^
 ||wfcvhhmumb.com^
 ||wfcxcblmy.com^
 ||wfhaabydba.com^
+||wfhucstzrdpvmi.com^
 ||wfmarlexic.com^
 ||wfordsgoo.club^
 ||wftduglf.com^
@@ -12066,6 +12076,7 @@ vkcdnservice.appspot.com^
 ||wityamdog.com^
 ||wiwapaxo.xyz^
 ||wiywlvkwwwrms.com^
+||wizardssqueakcontractor.com^
 ||wizhumpgyros.com^
 ||wizliebeg.com^
 ||wizwarsum.site^
@@ -33741,8 +33752,6 @@ adbetnet.com
 ! Source name: EasyList China ad servers
 ! Source: https://easylist-downloads.adblockplus.org/easylistchina.txt
 !
-||pinyoux.com^
-||itchenjian.com^
 ||00-gov.cn^
 ||0024aaaa.com^
 ||00880808.com^
@@ -34600,6 +34609,7 @@ adbetnet.com
 ||isabelisa.com^
 ||ishowbg.com^
 ||it028.net.cn^
+||itchenjian.com^
 ||itemccmod.com^
 ||iwansf.com^
 ||iyoowi.com^
@@ -34965,6 +34975,7 @@ adbetnet.com
 ||phvmax.com^
 ||pic12x20.com^
 ||pingping888.com^
+||pinyoux.com^
 ||pjshw.cn^
 ||pjtymy.cn^
 ||pk965.com^
@@ -36844,11 +36855,6 @@ adbetnet.com
 ||runkao.net^
 ||stunninglover.com^
 ||watakaw133.xyz^
-||zxlmnet.com^
-||51showmy.com^
-||hyuanprint.com^
-||fjylcy.com^
-||nmlhkj.com^
 ||01w47q.cn^
 ||0217qpineuxbcdhopswkvf.xyz^
 ||0224fqpowiuxybnmvdfghj.xyz^
@@ -36954,6 +36960,7 @@ adbetnet.com
 ||51foodsafe.cn^
 ||51gpt.com^
 ||51posj.cn^
+||51showmy.com^
 ||51wxyx.cn^
 ||52homie.cn^
 ||52tushuo.com^
@@ -37516,6 +37523,7 @@ adbetnet.com
 ||fjmrxys.com^
 ||fjshxzyyxgs.cn^
 ||fjtzjy.com^
+||fjylcy.com^
 ||fkkse.com^
 ||fll007.com^
 ||fnpet.cn^
@@ -37751,6 +37759,7 @@ adbetnet.com
 ||hyjyjc.com^
 ||hypzv.com^
 ||hytcsh.cn^
+||hyuanprint.com^
 ||hyxca.top^
 ||hyyazhaji.com^
 ||hzht666.com^
@@ -38150,6 +38159,7 @@ adbetnet.com
 ||nlqnmkn.cn^
 ||nlyjs2015.com^
 ||nlzq888.com^
+||nmlhkj.com^
 ||nmqdnykj.com^
 ||nmtouzi.com^
 ||nongzhifu.cn^
@@ -39007,6 +39017,7 @@ adbetnet.com
 ||zxhymh.com^
 ||zxin131.cn^
 ||zxjjzx.com^
+||zxlmnet.com^
 ||zxpyzc.cn^
 ||zxsmxt.com^
 ||zxzhengxin.com^
