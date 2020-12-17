@@ -3,7 +3,7 @@
 ! Description: Filter composed of several other filters (AdGuard Base filter, Social media filter, Tracking Protection filter, Mobile ads filter, EasyList, EasyPrivacy, etc) and simplified specifically to be better compatible with DNS-level ad blocking.
 ! Homepage: https://github.com/AdguardTeam/AdguardSDNSFilter
 ! License: https://github.com/AdguardTeam/AdguardSDNSFilter/blob/master/LICENSE
-! Last modified: 2020-12-17T10:05:09.160Z
+! Last modified: 2020-12-17T11:04:32.833Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.8
 !
@@ -3453,6 +3453,7 @@ vkcdnservice.appspot.com^
 ||blecuttasha.club^
 ||bledevellinga.site^
 ||blessingpudding.com^
+||blissfuldes.com^
 ||blockadsnot.com^
 ||blockchaintop.nl^
 ||blockscoolest.com^
@@ -3694,6 +3695,7 @@ vkcdnservice.appspot.com^
 ||capsfogpeck.com^
 ||caradstag.casa^
 ||carbourse.club^
+||cardinalimprovementscartrige.com^
 ||cardmrket.com^
 ||careersincorrectquickie.com^
 ||carefuseds.club^
@@ -7731,6 +7733,7 @@ vkcdnservice.appspot.com^
 ||mdlsite.com^
 ||mdmupsmel.com^
 ||mdpmgoitzaotk.com^
+||mdpqambxvmzai.com^
 ||mdqpfqvienzr.com^
 ||mdsauswjligigj.com^
 ||mduinqxgi.com^
@@ -10702,6 +10705,7 @@ vkcdnservice.appspot.com^
 ||steakyesembarrass.com^
 ||stedintelo.club^
 ||stenosent.xyz^
+||stepfatherparamedicthem.com^
 ||steroidtypesconviction.com^
 ||steverariso.fun^
 ||stewerdu.net^
@@ -11521,6 +11525,7 @@ vkcdnservice.appspot.com^
 ||urnkawsxxh.com^
 ||urnuvssumlrb.com^
 ||uroidgcc.com^
+||urokcwwzno.com^
 ||uropersag.club^
 ||urt7bpvfz4am.com^
 ||urthvisitoric.space^
@@ -22892,6 +22897,7 @@ charlestownwyllie.oaklawnnonantum.com^
 ||monitus.net^
 ||monstat.com^
 ||monu.delivery^
+||mooo.com^
 ||mooseway.com^
 ||mopinion.com^
 ||motrixi.com^
