@@ -3,23 +3,10 @@
 ! Description: Filter composed of several other filters (AdGuard Base filter, Social media filter, Tracking Protection filter, Mobile ads filter, EasyList, EasyPrivacy, etc) and simplified specifically to be better compatible with DNS-level ad blocking.
 ! Homepage: https://github.com/AdguardTeam/AdguardSDNSFilter
 ! License: https://github.com/AdguardTeam/AdguardSDNSFilter/blob/master/LICENSE
-! Last modified: 2020-12-18T11:07:17.661Z
+! Last modified: 2020-12-18T12:14:19.937Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.8
 !
-!
-! Source name: AdGuard Base filter ad servers
-! Source: https://raw.githubusercontent.com/AdguardTeam/AdguardFilters/master/EnglishFilter/sections/adservers.txt
-!
-!
-! Section contains list of advertising networks
-!
-! The rules with hints are at the end of file
-!
-!! https://a.bestcontentitem.top/warp/*?r=
-!
-||ukfpgaeihxamg.com^
-||fzehxxsdxyfg.com^
 ||9997494f4d4b694d4f6702.online^
 ||wheelwheel.space^
 ||vyhezucha.pro^
@@ -5587,6 +5574,7 @@ vkcdnservice.appspot.com^
 ||fyrvxydxsrww.com^
 ||fz5akngy5o6r.com^
 ||fzeahussyd.com^
+||fzehxxsdxyfg.com^
 ||fzgitqrqrsyyiv.com^
 ||fzhvebnia.com^
 ||fzlkdwivfnreg.com^
@@ -9205,6 +9193,7 @@ vkcdnservice.appspot.com^
 ||podsolnu9hi10.com^
 ||poemsdeucewee.com^
 ||poemsproduced.com^
+||poifinsegg.com^
 ||poignantcover.com^
 ||point-of-entry.com^
 ||pointexcusestretching.com^
@@ -11398,6 +11387,7 @@ vkcdnservice.appspot.com^
 ||ujylaibwmgtaow.com^
 ||ukcomparends.pro^
 ||ukdzmuvtelq.com^
+||ukfpgaeihxamg.com^
 ||uklvebsp.com^
 ||uklyolpqnt.com^
 ||ukngpcuyc.com^
