@@ -3,7 +3,7 @@
 ! Description: Filter composed of several other filters (AdGuard Base filter, Social media filter, Tracking Protection filter, Mobile ads filter, EasyList, EasyPrivacy, etc) and simplified specifically to be better compatible with DNS-level ad blocking.
 ! Homepage: https://github.com/AdguardTeam/AdguardSDNSFilter
 ! License: https://github.com/AdguardTeam/AdguardSDNSFilter/blob/master/LICENSE
-! Last modified: 2020-12-18T23:06:41.078Z
+! Last modified: 2020-12-19T00:14:06.037Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.8
 !
@@ -25564,6 +25564,7 @@ charlestownwyllie.oaklawnnonantum.com^
 ||t.sharethis.com^
 ||t.signalayer.com^
 ||t.smile.eu^
+||t.spot.im^
 ||t2.t2b.click^
 ||tag-manager.playbuzz.com^
 ||tag.aumago.com^
@@ -33768,7 +33769,6 @@ adbetnet.com
 ! Source name: EasyList China ad servers
 ! Source: https://easylist-downloads.adblockplus.org/easylistchina.txt
 !
-||qdwght.com^
 ||00-gov.cn^
 ||0024aaaa.com^
 ||00880808.com^
@@ -35021,6 +35021,7 @@ adbetnet.com
 ||qdchunyu.com^
 ||qdkzjdsb.cn^
 ||qdsfzz.cn^
+||qdwght.com^
 ||qevcxo.cn^
 ||qfihdr.com^
 ||qfs365.com^
@@ -36875,11 +36876,6 @@ adbetnet.com
 ||runkao.net^
 ||stunninglover.com^
 ||watakaw133.xyz^
-||hvie6u.cn^
-||1214bdk.xyz^
-||zhangshiyuan.com^
-||vkpsmzj.cn^
-||czlongle.cn^
 ||01w47q.cn^
 ||0217qpineuxbcdhopswkvf.xyz^
 ||0224fqpowiuxybnmvdfghj.xyz^
@@ -36920,6 +36916,7 @@ adbetnet.com
 ||1115potmgabfvixqwi.top^
 ||114com.cc^
 ||118ex.cn^
+||1214bdk.xyz^
 ||125331.top^
 ||12gf.gold^
 ||12jf3.cn^
@@ -37387,6 +37384,7 @@ adbetnet.com
 ||cz345.cn^
 ||czhcloud.cn^
 ||czlhgz.com^
+||czlongle.cn^
 ||czxjx.cn^
 ||czzdf.com^
 ||d1skp.cn^
@@ -37778,6 +37776,7 @@ adbetnet.com
 ||hunpp.com^
 ||huodiyun.cn^
 ||huoyiad1.cn^
+||hvie6u.cn^
 ||hwertd.xyz^
 ||hxiak.com^
 ||hxsjxw.cn^
@@ -38671,6 +38670,7 @@ adbetnet.com
 ||vjptye.cn^
 ||vjuer.com^
 ||vkjnd.com^
+||vkpsmzj.cn^
 ||vkuay.com^
 ||vodtw.la^*xhtml
 ||voterlin.cn^
@@ -38985,6 +38985,7 @@ adbetnet.com
 ||zgsxhx.com^
 ||zgwlbjy.cn^
 ||zhamm.cn^
+||zhangshiyuan.com^
 ||zhanjiangletian.com^
 ||zhanlan5.cn^
 ||zhengjsmd.cn^
