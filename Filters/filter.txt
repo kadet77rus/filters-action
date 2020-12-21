@@ -3,7 +3,7 @@
 ! Description: Filter composed of several other filters (AdGuard Base filter, Social media filter, Tracking Protection filter, Mobile ads filter, EasyList, EasyPrivacy, etc) and simplified specifically to be better compatible with DNS-level ad blocking.
 ! Homepage: https://github.com/AdguardTeam/AdguardSDNSFilter
 ! License: https://github.com/AdguardTeam/AdguardSDNSFilter/blob/master/LICENSE
-! Last modified: 2020-12-21T09:09:21.781Z
+! Last modified: 2020-12-21T10:07:53.114Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.8
 !
@@ -24086,6 +24086,35 @@ charlestownwyllie.oaklawnnonantum.com^
 ||zroitracker.com^
 ||ztsrv.com^
 ||zuzab.com^
+! https://blog.confiant.com/the-trend-of-client-side-fingerprinting-in-cloaked-landing-pages-21915eb473df
+||artfin.club^
+||bemarts.club^
+||bogglecool.club^
+||bosetoo.club^
+||chanelventure.club^
+||cyrstalventure.club^
+||docileyellow.club^
+||elevagant.club^
+||halospring.club^
+||hollydeal.club^
+||iconstab.club^
+||kungfupan.club^
+||leono.club^
+||localbeige.club^
+||lomeldeer.club^
+||makedosupport.club^
+||mandatebright.club^
+||migrati.xyz^
+||morozhko.club^
+||muatui.com^
+||polobook.club^
+||santuforward.club^
+||supertraders.club^
+||supertraders.info^
+||tantrumall.club^
+||tradesecretz.info^
+||vicspendig.club^
+||vinchenmedia.club^
 ! revprotect
 ||pphwrevr.com^
 ||protectcrev.com^
