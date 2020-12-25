@@ -3,11 +3,10 @@
 ! Description: Filter composed of several other filters (AdGuard Base filter, Social media filter, Tracking Protection filter, Mobile ads filter, EasyList, EasyPrivacy, etc) and simplified specifically to be better compatible with DNS-level ad blocking.
 ! Homepage: https://github.com/AdguardTeam/AdguardSDNSFilter
 ! License: https://github.com/AdguardTeam/AdguardSDNSFilter/blob/master/LICENSE
-! Last modified: 2020-12-25T04:11:12.608Z
+! Last modified: 2020-12-25T05:12:20.167Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.8
 !
-||trawahdh2hd8nbvy09.com^
 ||gramscien.xyz^
 ||bidio.pl^
 ||codeopensource.online^
@@ -11213,6 +11212,7 @@ vkcdnservice.appspot.com^
 ||tratefirearly.top^
 ||traumaticnoiseless.com^
 ||travangeind.club^
+||trawahdh2hd8nbvy09.com^
 ||trblocked.com^
 ||trc85.com^
 ||trccmpnlnk.com^
@@ -36980,6 +36980,7 @@ adbetnet.com
 ||runkao.net^
 ||stunninglover.com^
 ||watakaw133.xyz^
+||sasoo.cn^
 ||01w47q.cn^
 ||0217qpineuxbcdhopswkvf.xyz^
 ||0224fqpowiuxybnmvdfghj.xyz^
