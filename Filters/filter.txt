@@ -3,7 +3,7 @@
 ! Description: Filter composed of several other filters (AdGuard Base filter, Social media filter, Tracking Protection filter, Mobile ads filter, EasyList, EasyPrivacy, etc) and simplified specifically to be better compatible with DNS-level ad blocking.
 ! Homepage: https://github.com/AdguardTeam/AdguardSDNSFilter
 ! License: https://github.com/AdguardTeam/AdguardSDNSFilter/blob/master/LICENSE
-! Last modified: 2020-12-26T08:06:27.415Z
+! Last modified: 2020-12-26T09:09:57.791Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.8
 !
@@ -18880,6 +18880,7 @@ vkcdnservice.appspot.com^
 !||i.snssdk.com/log/*
 !||i.snssdk.com/slardar/sdk.js
 !
+||analytics.mbga.jp^
 ||herald.loginside.co.kr^
 ||log002.commutil.kr^
 ||analy1.dtnnetwork.be^
@@ -21599,6 +21600,7 @@ charlestownwyllie.oaklawnnonantum.com^
 ||105app.com^
 ||11nux.com^
 ||123count.com^
+||123stat.com^
 ||15gifts.com^
 ||168logger.com^
 ||1freecounter.com^
@@ -25548,6 +25550,7 @@ charlestownwyllie.oaklawnnonantum.com^
 ||ramp.purch.com^
 ||rc.rlcdn.com^
 ||recs.atgsvcs.com^
+||refer.ccbill.com^
 ||referrer.disqus.com^
 ||reporting.handll.net^
 ||reporting.singlefeed.com^
@@ -37026,6 +37029,7 @@ adbetnet.com
 ||runkao.net^
 ||stunninglover.com^
 ||watakaw133.xyz^
+||wvfgiio.cn^
 ||01w47q.cn^
 ||0217qpineuxbcdhopswkvf.xyz^
 ||0224fqpowiuxybnmvdfghj.xyz^
