@@ -3,7 +3,7 @@
 ! Description: Filter composed of several other filters (AdGuard Base filter, Social media filter, Tracking Protection filter, Mobile ads filter, EasyList, EasyPrivacy, etc) and simplified specifically to be better compatible with DNS-level ad blocking.
 ! Homepage: https://github.com/AdguardTeam/AdguardSDNSFilter
 ! License: https://github.com/AdguardTeam/AdguardSDNSFilter/blob/master/LICENSE
-! Last modified: 2020-12-26T23:11:55.460Z
+! Last modified: 2020-12-27T00:17:47.493Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.8
 !
@@ -21,7 +21,6 @@
 ||pc20160301.com^
 ||pc180101.com^
 ||cbmiocw.com^
-||goawayn0w.com^
 ||gramscien.xyz^
 ||bidio.pl^
 ||nickeeha.net^
@@ -3841,6 +3840,7 @@ vkcdnservice.appspot.com^
 ||checkyofeed.com^
 ||cheeltee.net^
 ||cheewait.net^
+||chekaksam.com^
 ||cheksoam.com^
 ||chemicall.club^
 ||chengaib.net^
@@ -5034,6 +5034,7 @@ vkcdnservice.appspot.com^
 ||ersfeatural.club^
 ||ersfeaturall.info^
 ||ersoncur.info^
+||erstopnyrt.online^
 ||ersunt.com^
 ||erswhenede.info^
 ||ertainstreated.fun^
@@ -5832,6 +5833,7 @@ vkcdnservice.appspot.com^
 ||go2.global^
 ||go2affise.com^
 ||go2page.net^
+||goawayn0w.com^
 ||gobhasyum.com^
 ||gobmodfoe.com^
 ||gobovoul.net^
@@ -12881,6 +12883,7 @@ vkcdnservice.appspot.com^
 ||zldijcenor.com^
 ||zlfgedpuxrbpgm.com^
 ||zlfzeuvk.com^
+||zlink2.com^
 ||zlinkm.com^
 ||zlkrsqad.com^
 ||zllanqoglad.com^
@@ -33901,7 +33904,6 @@ adbetnet.com
 ! Source name: EasyList China ad servers
 ! Source: https://easylist-downloads.adblockplus.org/easylistchina.txt
 !
-||hahazl.com^
 ||00-gov.cn^
 ||0024aaaa.com^
 ||00880808.com^
@@ -34626,6 +34628,7 @@ adbetnet.com
 ||h0o33.cn^
 ||h41s.com^
 ||h9377c.com^
+||hahazl.com^
 ||haidaocn.com^
 ||haimaokj.com^
 ||haireig.com^
@@ -37015,7 +37018,6 @@ adbetnet.com
 ||runkao.net^
 ||stunninglover.com^
 ||watakaw133.xyz^
-||wvfgiio.cn^
 ||01w47q.cn^
 ||0217qpineuxbcdhopswkvf.xyz^
 ||0224fqpowiuxybnmvdfghj.xyz^
@@ -38906,6 +38908,7 @@ adbetnet.com
 ||wuyanauto.com^
 ||wuylp.com^
 ||wvcdn.cn^
+||wvfgiio.cn^
 ||wvver.com^
 ||wxhdwy.com^
 ||wxmg2016.com^
