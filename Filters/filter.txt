@@ -3,7 +3,7 @@
 ! Description: Filter composed of several other filters (AdGuard Base filter, Social media filter, Tracking Protection filter, Mobile ads filter, EasyList, EasyPrivacy, etc) and simplified specifically to be better compatible with DNS-level ad blocking.
 ! Homepage: https://github.com/AdguardTeam/AdguardSDNSFilter
 ! License: https://github.com/AdguardTeam/AdguardSDNSFilter/blob/master/LICENSE
-! Last modified: 2020-12-28T00:18:19.825Z
+! Last modified: 2020-12-28T01:57:11.161Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.8
 !
@@ -36279,8 +36279,6 @@ adbetnet.com
 @@||yzzkb.com.cn^*ad.
 ||immedlinkum.info^
 ||xayah.date^
-||idgdmgroup.com.cn^
-||hxbt.alading123.com^
 ||003store.com^
 ||1.01fy.cn^
 ||1.1010pic.com^
@@ -36680,8 +36678,10 @@ adbetnet.com
 ||hi.xiunm.com^
 ||hu.xbhy.com^
 ||huhai.cdwz8.cn^
+||hxbt.alading123.com^
 ||hy.huangye88.com.cn^
 ||hy.huangye88.net^
+||idgdmgroup.com.cn^
 ||iia1.pikacn.com^
 ||images8.gaotie.cn^
 ||img.263y.com^
@@ -37029,8 +37029,6 @@ adbetnet.com
 ||runkao.net^
 ||stunninglover.com^
 ||watakaw133.xyz^
-||aoidf3.com^
-||yuanqitu.com^
 ||01w47q.cn^
 ||0217qpineuxbcdhopswkvf.xyz^
 ||0224fqpowiuxybnmvdfghj.xyz^
@@ -37299,6 +37297,7 @@ adbetnet.com
 ||anweigongsi.com^
 ||anyysz.com^
 ||aodepuo.cn^
+||aoidf3.com^
 ||aomde.com^
 ||aox7.xyz^
 ||aoyou2.top^
@@ -38734,6 +38733,7 @@ adbetnet.com
 ||themecat.cn^
 ||themee.cn^
 ||theonsiteline.com^
+||thindsoo.cn^
 ||thuyki.cn^
 ||thxsqei.cn^
 ||tiandihui9450.top^
@@ -39113,6 +39113,7 @@ adbetnet.com
 ||ytmaitian.com^
 ||ytmaksim.cn^
 ||yuanhangpiju.cn^
+||yuanqitu.com^
 ||yueduyy.com^
 ||yueqiangss.cn^
 ||yueyelive.com^
