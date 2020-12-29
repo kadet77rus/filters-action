@@ -3,7 +3,7 @@
 ! Description: Filter composed of several other filters (AdGuard Base filter, Social media filter, Tracking Protection filter, Mobile ads filter, EasyList, EasyPrivacy, etc) and simplified specifically to be better compatible with DNS-level ad blocking.
 ! Homepage: https://github.com/AdguardTeam/AdguardSDNSFilter
 ! License: https://github.com/AdguardTeam/AdguardSDNSFilter/blob/master/LICENSE
-! Last modified: 2020-12-29T00:19:40.004Z
+! Last modified: 2020-12-29T01:58:30.067Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.8
 !
@@ -5881,6 +5881,7 @@ vkcdnservice.appspot.com^
 ||gongeeta.net^
 ||googlesierai.xyz^
 ||goozbkcchscvb.com^
+||gopejk.com^
 ||gopfltvoiflf.com^
 ||goredi.com^
 ||gorettent.xyz^
@@ -16365,6 +16366,7 @@ vkcdnservice.appspot.com^
 ||qertewrt.com^
 ||qerusedpastrong.info^
 ||qfdn3gyfbs.com^
+||qingjiedi.com^
 ||qksrv.net^
 ||qksz.net^
 ||qmkr7isp3o.com^
@@ -22115,6 +22117,7 @@ charlestownwyllie.oaklawnnonantum.com^
 ||clickreport.com^
 ||clicksagent.com^
 ||clicksen.se^
+||clicksgate.com^
 ||clickshift.com^
 ||clickstream.co.za^
 ||clicktale.net^
@@ -27240,6 +27243,7 @@ charlestownwyllie.oaklawnnonantum.com^
 ||telemetry.jivosite.com^
 ||top.elec.ru^
 ||track.recreativ.ru^
+||tracking.gpm-rtv.ru^
 ||tracking.retailrocket.net^
 ||upstats.yadro.ru^
 ||webtrack.biz^
