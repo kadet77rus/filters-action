@@ -3,7 +3,7 @@
 ! Description: Filter composed of several other filters (AdGuard Base filter, Social media filter, Tracking Protection filter, Mobile ads filter, EasyList, EasyPrivacy, etc) and simplified specifically to be better compatible with DNS-level ad blocking.
 ! Homepage: https://github.com/AdguardTeam/AdguardSDNSFilter
 ! License: https://github.com/AdguardTeam/AdguardSDNSFilter/blob/master/LICENSE
-! Last modified: 2020-12-30T13:20:44.241Z
+! Last modified: 2020-12-30T14:11:53.997Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.8
 !
@@ -33424,8 +33424,8 @@ adbetnet.com
 !
 ! Title: hostsVN
 ! Description: The filter contains ad and tracking networks in Vietnam.
-! Last modified: 30 Dec 2020 20:08 UTC+7
-! Version: 2012302008
+! Last modified: 30 Dec 2020 20:43 UTC+7
+! Version: 2012302043
 ! Blocked: 587 rules
 ! Expires: 1 days (update frequency)
 ! Homepage: https://bigdargon.github.io/hostsVN/
@@ -34022,6 +34022,7 @@ adbetnet.com
 ! Source name: EasyList China ad servers
 ! Source: https://easylist-downloads.adblockplus.org/easylistchina.txt
 !
+||19shows.net^
 ||zhongbolm.com^
 ||00-gov.cn^
 ||0024aaaa.com^
@@ -37141,6 +37142,8 @@ adbetnet.com
 ||runkao.net^
 ||stunninglover.com^
 ||watakaw133.xyz^
+||yixiangzhan.cn^
+||xl4z7.cn^
 ||ljmei.com^
 ||01w47q.cn^
 ||0217qpineuxbcdhopswkvf.xyz^
