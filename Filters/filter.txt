@@ -3,7 +3,7 @@
 ! Description: Filter composed of several other filters (AdGuard Base filter, Social media filter, Tracking Protection filter, Mobile ads filter, EasyList, EasyPrivacy, etc) and simplified specifically to be better compatible with DNS-level ad blocking.
 ! Homepage: https://github.com/AdguardTeam/AdguardSDNSFilter
 ! License: https://github.com/AdguardTeam/AdguardSDNSFilter/blob/master/LICENSE
-! Last modified: 2021-01-01T23:16:34.770Z
+! Last modified: 2021-01-02T00:21:42.637Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.8
 !
@@ -25490,6 +25490,7 @@ charlestownwyllie.oaklawnnonantum.com^
 ||log.outbrain.com^
 ||log.outbrainimg.com^
 ||log.pinterest.com^
+||log.plinga.de^
 ||log.seekda.com^
 ||logger.snackly.co^
 ||logging.carambo.la^
@@ -37140,8 +37141,6 @@ adbetnet.com
 ||runkao.net^
 ||stunninglover.com^
 ||watakaw133.xyz^
-||fxfvttu.cn^
-||zykxjt.com^
 ||01w47q.cn^
 ||0217qpineuxbcdhopswkvf.xyz^
 ||0224fqpowiuxybnmvdfghj.xyz^
@@ -37848,6 +37847,7 @@ adbetnet.com
 ||fwjoi.com^
 ||fwyang.com^
 ||fxfhjs.com^
+||fxfvttu.cn^
 ||fy4zb.cn^
 ||fyehare.com^
 ||fyjyhm.com^
@@ -39358,6 +39358,7 @@ adbetnet.com
 ||zxpyzc.cn^
 ||zxsmxt.com^
 ||zxzhengxin.com^
+||zykxjt.com^
 ||zywhjd.com^
 ||zyxwpj.com^
 ||zzalkk.com^
