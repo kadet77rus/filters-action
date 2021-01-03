@@ -3,7 +3,7 @@
 ! Description: Filter composed of several other filters (AdGuard Base filter, Social media filter, Tracking Protection filter, Mobile ads filter, EasyList, EasyPrivacy, etc) and simplified specifically to be better compatible with DNS-level ad blocking.
 ! Homepage: https://github.com/AdguardTeam/AdguardSDNSFilter
 ! License: https://github.com/AdguardTeam/AdguardSDNSFilter/blob/master/LICENSE
-! Last modified: 2021-01-03T04:18:18.264Z
+! Last modified: 2021-01-03T05:18:25.756Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.8
 !
@@ -18973,7 +18973,6 @@ vkcdnservice.appspot.com^
 ||aukana.jp^
 ||stat.tiara.
 ||track.tiara.
-||telemetry.api.wmcdp.io^
 ||logs.psm.wmcdp.io^
 ||pixel.tapad.com^
 ||nlog.nethru.io^
@@ -25276,6 +25275,7 @@ charlestownwyllie.oaklawnnonantum.com^
 ||d28g9g3vb08y70.cloudfront.net^
 ||d2as12kgjg8gw5.cloudfront.net^
 ||d2cpw6kwpff7n5.cloudfront.net^
+||d2gbtcuv3w9qyv.cloudfront.net^
 ||d2ibu2ug0mt5qp.cloudfront.net^
 ||d2kdl5wcwrtj90.cloudfront.net^
 ||d2nxi61n77zqpl.cloudfront.net^
@@ -25798,6 +25798,7 @@ charlestownwyllie.oaklawnnonantum.com^
 ||tc.airfrance.com^
 ||tcheck.outbrainimg.com^
 ||te.supportfreecontent.com^
+||telemetry.api.wmcdp.io^
 ||telemetry.reembed.com^
 ||telemetry.soundcloud.com^
 ||telemetry.tableausoftware.com^
