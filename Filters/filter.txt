@@ -3,7 +3,7 @@
 ! Description: Filter composed of several other filters (AdGuard Base filter, Social media filter, Tracking Protection filter, Mobile ads filter, EasyList, EasyPrivacy, etc) and simplified specifically to be better compatible with DNS-level ad blocking.
 ! Homepage: https://github.com/AdguardTeam/AdguardSDNSFilter
 ! License: https://github.com/AdguardTeam/AdguardSDNSFilter/blob/master/LICENSE
-! Last modified: 2021-01-02T23:16:48.619Z
+! Last modified: 2021-01-03T00:22:02.894Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.8
 !
@@ -34020,8 +34020,6 @@ adbetnet.com
 ! Source name: EasyList China ad servers
 ! Source: https://easylist-downloads.adblockplus.org/easylistchina.txt
 !
-||cloudpsvn.com^
-||shukongshebei.net^
 ||00-gov.cn^
 ||0024aaaa.com^
 ||00880808.com^
@@ -34462,6 +34460,7 @@ adbetnet.com
 ||ckseeknew.com^
 ||claz.com.cn^
 ||climbcoder.com^
+||cloudpsvn.com^
 ||cmaxisolation.com^
 ||cmslayue.com^
 ||cnbole.net^
@@ -35408,6 +35407,7 @@ adbetnet.com
 ||shuangshiyihightgo.top^
 ||shucaihangjia.com^
 ||shuccn.com^
+||shukongshebei.net^
 ||shuwuzhan.com^
 ||shxinjie.cn^
 ||shypqc.com^
@@ -36058,6 +36058,7 @@ adbetnet.com
 ||ad-img.diyidan.net^
 ||ad.52av.one^
 ||ad.bobi.tw^
+||ad.ccement.com^
 ||ad.cdnjm.cn^
 ||ad.walkgame.com^
 ||ad.wurangxian.top^
@@ -36367,7 +36368,6 @@ adbetnet.com
 ||zhimg.com^*adx
 ||zt2088.com^
 ||ztyumn.ifeng.com^
-||ad.ccement.com^
 @@||95599.cn^*ad
 @@||abchina.com^*ad
 @@||ad.10010.com^
