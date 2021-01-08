@@ -3,7 +3,7 @@
 ! Description: Filter composed of several other filters (AdGuard Base filter, Social media filter, Tracking Protection filter, Mobile ads filter, EasyList, EasyPrivacy, etc) and simplified specifically to be better compatible with DNS-level ad blocking.
 ! Homepage: https://github.com/AdguardTeam/AdguardSDNSFilter
 ! License: https://github.com/AdguardTeam/AdguardSDNSFilter/blob/master/LICENSE
-! Last modified: 2021-01-08T19:22:14.559Z
+! Last modified: 2021-01-08T20:16:55.182Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.8
 !
@@ -12995,6 +12995,7 @@ vkcdnservice.appspot.com^
 ||zlfgedpuxrbpgm.com^
 ||zlfzeuvk.com^
 ||zlink2.com^
+||zlink6.com^
 ||zlinkm.com^
 ||zlkrsqad.com^
 ||zllanqoglad.com^
@@ -20117,7 +20118,6 @@ vkcdnservice.appspot.com^
 ||combclover.com^
 ||materialisticfan.com^
 ||chemicalcoach.com^
-||endurablecrayon.com^
 ||forgetfulflowers.com^
 ||arcticamber.com^
 ||uncoveredexpert.com^
@@ -24811,7 +24811,7 @@ charlestownwyllie.oaklawnnonantum.com^
 ||dq95d35.com^
 ||drydrum.com^
 ||ejyymghi.com^
-||endurablecrayon.com^third-party
+||endurablecrayon.com^
 ||enormousearth.com^
 ||enviousshape.com^
 ||fadedsnow.com^
@@ -26039,6 +26039,8 @@ charlestownwyllie.oaklawnnonantum.com^
 ||wstat.wibiya.com^
 ||x.weather.com^
 ||zdlogs.sphereup.com^
+! Appcues
+/^https?:\/\/fast\.appcues\.com\/[0-9]{4,6}\.js/
 ! taboola
 ||convsgmp.taboola.com^
 ||la-sync.taboola.com^
