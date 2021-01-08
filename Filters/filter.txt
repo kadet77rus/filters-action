@@ -3,7 +3,7 @@
 ! Description: Filter composed of several other filters (AdGuard Base filter, Social media filter, Tracking Protection filter, Mobile ads filter, EasyList, EasyPrivacy, etc) and simplified specifically to be better compatible with DNS-level ad blocking.
 ! Homepage: https://github.com/AdguardTeam/AdguardSDNSFilter
 ! License: https://github.com/AdguardTeam/AdguardSDNSFilter/blob/master/LICENSE
-! Last modified: 2021-01-08T13:27:05.175Z
+! Last modified: 2021-01-08T14:21:30.291Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.8
 !
@@ -37252,6 +37252,11 @@ adbetnet.com
 ||m06nev.com^
 ||zhmyq.cn^
 ||ql01t4.com^
+||tzh019.cn^
+||aoyou4.top^
+||xiangyuym.cn^
+||wangjulm.com^
+||ahwczn.cn^
 ||dacedsfa.cn^
 ||01w47q.cn^
 ||0217qpineuxbcdhopswkvf.xyz^
@@ -39201,7 +39206,6 @@ adbetnet.com
 ||xiandafood.cn^
 ||xiangchim0.com^
 ||xiangwangdesh.com^
-||xiangyuym.cn^
 ||xiansenmeng.cn^
 ||xiaobingmai.cn^
 ||xiaogouzhuanqian.cn^
