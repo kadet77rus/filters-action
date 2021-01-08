@@ -3,7 +3,7 @@
 ! Description: Filter composed of several other filters (AdGuard Base filter, Social media filter, Tracking Protection filter, Mobile ads filter, EasyList, EasyPrivacy, etc) and simplified specifically to be better compatible with DNS-level ad blocking.
 ! Homepage: https://github.com/AdguardTeam/AdguardSDNSFilter
 ! License: https://github.com/AdguardTeam/AdguardSDNSFilter/blob/master/LICENSE
-! Last modified: 2021-01-08T12:21:14.761Z
+! Last modified: 2021-01-08T13:27:05.175Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.8
 !
@@ -1795,6 +1795,7 @@ www.llllllllllll.net^
 !
 ! Section contains the list of advertising networks, which are hosted on non advertising sites as subdomains
 !
+||d18t35yyry2k49.cloudfront.net^
 ||sak.userreport.com^
 ||api.flygame.io^
 ||tontent.powv1deo.cc^
@@ -34120,6 +34121,7 @@ adbetnet.com
 ! Source name: EasyList China ad servers
 ! Source: https://easylist-downloads.adblockplus.org/easylistchina.txt
 !
+||7cbwus.cn^
 ||00-gov.cn^
 ||0024aaaa.com^
 ||00880808.com^
@@ -37247,6 +37249,9 @@ adbetnet.com
 ||runkao.net^
 ||stunninglover.com^
 ||watakaw133.xyz^
+||m06nev.com^
+||zhmyq.cn^
+||ql01t4.com^
 ||dacedsfa.cn^
 ||01w47q.cn^
 ||0217qpineuxbcdhopswkvf.xyz^
