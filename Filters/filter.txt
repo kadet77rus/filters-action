@@ -3,7 +3,7 @@
 ! Description: Filter composed of several other filters (AdGuard Base filter, Social media filter, Tracking Protection filter, Mobile ads filter, EasyList, EasyPrivacy, etc) and simplified specifically to be better compatible with DNS-level ad blocking.
 ! Homepage: https://github.com/AdguardTeam/AdguardSDNSFilter
 ! License: https://github.com/AdguardTeam/AdguardSDNSFilter/blob/master/LICENSE
-! Last modified: 2021-01-09T00:28:29.179Z
+! Last modified: 2021-01-09T02:16:13.624Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.8
 !
@@ -34126,7 +34126,6 @@ adbetnet.com
 ! Source name: EasyList China ad servers
 ! Source: https://easylist-downloads.adblockplus.org/easylistchina.txt
 !
-||7cbwus.cn^
 ||00-gov.cn^
 ||0024aaaa.com^
 ||00880808.com^
@@ -34303,6 +34302,7 @@ adbetnet.com
 ||77power.com^
 ||7891655.cn^
 ||7a096v.cn^
+||7cbwus.cn^
 ||7dah8.com^
 ||7gg.cc^
 ||7jiajiao.com^
@@ -37254,16 +37254,6 @@ adbetnet.com
 ||runkao.net^
 ||stunninglover.com^
 ||watakaw133.xyz^
-||yjxqy.com^
-||m06nev.com^
-||zhmyq.cn^
-||ql01t4.com^
-||tzh019.cn^
-||aoyou4.top^
-||xiangyuym.cn^
-||wangjulm.com^
-||ahwczn.cn^
-||dacedsfa.cn^
 ||01w47q.cn^
 ||0217qpineuxbcdhopswkvf.xyz^
 ||0224fqpowiuxybnmvdfghj.xyz^
@@ -37497,6 +37487,7 @@ adbetnet.com
 ||ahunai.cn^
 ||ahunui.cn^
 ||ahw3.com^
+||ahwczn.cn^
 ||aibangzs.com^
 ||aicydb.com^
 ||aikan6.com^
@@ -37542,6 +37533,7 @@ adbetnet.com
 ||aox7.xyz^
 ||aoyou2.top^
 ||aoyou3.top^
+||aoyou4.top^
 ||apdingqian.com^
 ||apjiangte.com^
 ||apmengxin.com^
@@ -37792,6 +37784,7 @@ adbetnet.com
 ||d5a5a.xyz^
 ||d663q.cn^
 ||d72l4.com^
+||dacedsfa.cn^
 ||dachadu.cn^
 ||dadawm.cc^
 ||dailiq.cn^
@@ -38480,6 +38473,7 @@ adbetnet.com
 ||lzida.com^
 ||lzkjsj.com^
 ||lzytt.com^
+||m06nev.com^
 ||mababa.info^
 ||mabioe.cn^
 ||maicaoren.cn^
@@ -38749,6 +38743,7 @@ adbetnet.com
 ||qjxszp.cn^
 ||qkptx.com^
 ||qkykxrm.cn^
+||ql01t4.com^
 ||qlaot.com^
 ||qlssbq.cn^
 ||qmlcdlo.cn^
@@ -39039,6 +39034,7 @@ adbetnet.com
 ||tymsyx.com^
 ||tyrghj.cn^
 ||tyyjzs.cn^
+||tzh019.cn^
 ||u05m.cn^
 ||u0r9.cn^
 ||u2c8.cn^
@@ -39106,6 +39102,7 @@ adbetnet.com
 ||w5wm7.cn^
 ||wabizc.cn^
 ||wagenlux.cn^
+||wangjulm.com^
 ||wangkeduo.cn^
 ||wangliqin.top^
 ||wangqing7.top^
@@ -39212,6 +39209,7 @@ adbetnet.com
 ||xiandafood.cn^
 ||xiangchim0.com^
 ||xiangwangdesh.com^
+||xiangyuym.cn^
 ||xiansenmeng.cn^
 ||xiaobingmai.cn^
 ||xiaogouzhuanqian.cn^
@@ -39335,6 +39333,7 @@ adbetnet.com
 ||yizhijin.cn^
 ||yjegf.com^
 ||yjiaj.com^
+||yjxqy.com^
 ||ykanx.com^
 ||yknhcl.com^
 ||ykpbgqc.top^
@@ -39436,6 +39435,7 @@ adbetnet.com
 ||zhivalley.cn^
 ||zhixd.cn^
 ||zhiyaowan.cn^
+||zhmyq.cn^
 ||zhongchengzp.com^
 ||zhongfujiaoyu.cn^
 ||zhongwangmy.cn^
