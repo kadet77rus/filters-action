@@ -3,7 +3,7 @@
 ! Description: Filter composed of several other filters (AdGuard Base filter, Social media filter, Tracking Protection filter, Mobile ads filter, EasyList, EasyPrivacy, etc) and simplified specifically to be better compatible with DNS-level ad blocking.
 ! Homepage: https://github.com/AdguardTeam/AdguardSDNSFilter
 ! License: https://github.com/AdguardTeam/AdguardSDNSFilter/blob/master/LICENSE
-! Last modified: 2021-01-09T12:11:45.739Z
+! Last modified: 2021-01-09T13:27:24.377Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.8
 !
@@ -18990,6 +18990,9 @@ vkcdnservice.appspot.com^
 !||i.snssdk.com/log/*
 !||i.snssdk.com/slardar/sdk.js
 !
+! relateddigital.com domains
+||visilabs.com^
+!
 ||log.perfecttitspics.com^
 ||analytics.mbga.jp^
 ||herald.loginside.co.kr^
@@ -21290,7 +21293,6 @@ charlestownwyllie.oaklawnnonantum.com^
 ||hrumpoc.hotels.com^
 ||ibeat.indiatimes.com^
 ||iptracker-lb-*.amazonaws.com^
-||lgr.visilabs.net^
 ||lively-collect-elb-*.amazonaws.com^
 ||log-live.direct.ly^
 ||log.adap.tv^
@@ -21309,7 +21311,6 @@ charlestownwyllie.oaklawnnonantum.com^
 ||qlog.adap.tv^
 ||qnajplxtvz-a.akamaihd.net^
 ||r.remarketingpixel.com^
-||rt.visilabs.net^
 ||s.frida.vse42.ru^
 ||saber.srvcs.tumblr.com^
 ||smetrics.uhc.com^
@@ -26958,6 +26959,7 @@ charlestownwyllie.oaklawnnonantum.com^
 ||sayyac.com^
 ||sayyac.net^
 ||sitetistik.com^
+||visilabs.net^
 ||webservis.gen.tr^
 ||zirve100.com^
 ! Ukranian
@@ -32268,8 +32270,6 @@ adbetnet.com
 ||ukbet99.com^
 ||uzmanreklam.com^
 ||videoustu.com^
-||visilabs.com^
-||visilabs.net^
 ||winaffiliates.com^
 ||xpornoizlex.net^
 ||xyztanitim.com^
@@ -36502,6 +36502,7 @@ adbetnet.com
 @@||yzzkb.com.cn^*ad.
 ||immedlinkum.info^
 ||xayah.date^
+||d.8181zx.com^
 ||003store.com^
 ||1.01fy.cn^
 ||1.1010pic.com^
