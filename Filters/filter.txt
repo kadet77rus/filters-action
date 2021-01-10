@@ -3,7 +3,7 @@
 ! Description: Filter composed of several other filters (AdGuard Base filter, Social media filter, Tracking Protection filter, Mobile ads filter, EasyList, EasyPrivacy, etc) and simplified specifically to be better compatible with DNS-level ad blocking.
 ! Homepage: https://github.com/AdguardTeam/AdguardSDNSFilter
 ! License: https://github.com/AdguardTeam/AdguardSDNSFilter/blob/master/LICENSE
-! Last modified: 2021-01-09T23:22:18.532Z
+! Last modified: 2021-01-10T00:27:41.574Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.8
 !
@@ -20593,7 +20593,6 @@ t.yesware.com
 ||stat.videonow.ru^
 ||insight.bellmetric.net^
 ||t.afi-b.com^
-||tag.cribnotes.jp^
 ||metrics.news.com.au^
 ||clientlog.midomi.com^
 ||t.webjavaskript.net^
@@ -25204,6 +25203,7 @@ charlestownwyllie.oaklawnnonantum.com^
 ||cahf4eed.mooo.com^
 ||canvas-ping.conduit-data.com^
 ||canvas-usage-v2.conduit-data.com^
+||capi.connatix.com^
 ||capture.condenastdigital.com^
 ||capture.trackjs.com^
 ||carl.pubsvs.com^
@@ -25714,6 +25714,7 @@ charlestownwyllie.oaklawnnonantum.com^
 ||rs.sinajs.cn^
 ||rss.tmgrup.com.tr^
 ||rt.flix360.com^
+||rtg-endpoint.global.ssl.fastly.net^
 ||rtt.campanja.com^
 ||rum.azion.com^
 ||rum.azioncdn.net^
@@ -26083,6 +26084,7 @@ charlestownwyllie.oaklawnnonantum.com^
 ||securitymetrics.com^
 ||shopperapproved.com^
 ||siteintercept.allegiancetech.com^
+||trusted-web-seal.cybertrust.ne.jp^
 ||verify.authorize.net^
 ||websecurity.norton.com^
 ||widget.trustpilot.com^
@@ -26673,6 +26675,7 @@ charlestownwyllie.oaklawnnonantum.com^
 ||d-markets.net^
 ||deteql.net^
 ||docodoco.jp^
+||e-click.jp^
 ||e-kaiseki.com^
 ||ebis.ne.jp^
 ||ec-concier.com^
@@ -26680,6 +26683,7 @@ charlestownwyllie.oaklawnnonantum.com^
 ||eltex.co.jp^
 ||f-counter.jp^
 ||f-counter.net^
+||fw-ad.jp^
 ||genieessp.jp^
 ||gmodmp.jp^
 ||gsspcln.jp^
@@ -26699,6 +26703,7 @@ charlestownwyllie.oaklawnnonantum.com^
 ||owldata.com^
 ||pagoda56.com^
 ||pdmp.jp^
+||performancefirst.jp^
 ||polymorphicads.jp^
 ||quant.jp^
 ||rays-counter.com^
@@ -27239,6 +27244,8 @@ charlestownwyllie.oaklawnnonantum.com^
 ||analyzer51.fc2.com^
 ||asumi.shinobi.jp^
 ||bidder.mediams.mb.softbank.jp^
+||bvr.ast.snva.jp^
+||cookie.sync.usonar.jp^
 ||imgstat.ameba.jp^
 ||ip2c.landscape.co.jp^
 ||ipcheck.blogsys.jp^
@@ -27255,6 +27262,7 @@ charlestownwyllie.oaklawnnonantum.com^
 ||t.adlpo.com^
 ||t.felmat.net^
 ||t.seesaa.net^
+||tag.cribnotes.jp^
 ||torimochi.line-apps.com^
 ||track.thebase.in^
 ||tracker.520call.me^
