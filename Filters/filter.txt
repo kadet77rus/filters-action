@@ -3,7 +3,7 @@
 ! Description: Filter composed of several other filters (AdGuard Base filter, Social media filter, Tracking Protection filter, Mobile ads filter, EasyList, EasyPrivacy, etc) and simplified specifically to be better compatible with DNS-level ad blocking.
 ! Homepage: https://github.com/AdguardTeam/AdguardSDNSFilter
 ! License: https://github.com/AdguardTeam/AdguardSDNSFilter/blob/master/LICENSE
-! Last modified: 2021-01-10T00:27:41.574Z
+! Last modified: 2021-01-10T02:21:36.520Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.8
 !
@@ -26076,6 +26076,7 @@ charlestownwyllie.oaklawnnonantum.com^
 ||privacy-policy.truste.com^
 ||scanverify.com^
 ||seal.digicert.com^
+||seal.globalsign.com^
 ||seal.godaddy.com^
 ||seal.networksolutions.com^
 ||seal.qualys.com^
@@ -26663,10 +26664,13 @@ charlestownwyllie.oaklawnnonantum.com^
 ||whoseesyou.com^
 ||wstatslive.com^
 ||admatrix.jp^
+||adplan7.com^
 ||adpon.jp^
 ||af-z.jp^
 ||aid-ad.jp^
 ||analyticsip.net^
+||ar-x.site^
+||aspservice.jp^
 ||bigmining.com^
 ||blogranking.net^
 ||cetlog.jp^
@@ -26683,6 +26687,7 @@ charlestownwyllie.oaklawnnonantum.com^
 ||eltex.co.jp^
 ||f-counter.jp^
 ||f-counter.net^
+||fspark-ap.com^
 ||fw-ad.jp^
 ||genieessp.jp^
 ||gmodmp.jp^
@@ -26697,6 +26702,7 @@ charlestownwyllie.oaklawnnonantum.com^
 ||kir.jp^
 ||letro.jp^
 ||mobylog.jp^
+||moshimo.com^
 ||msgs.jp^
 ||nex8.net^
 ||omiki.com^
@@ -27245,6 +27251,7 @@ charlestownwyllie.oaklawnnonantum.com^
 ||asumi.shinobi.jp^
 ||bidder.mediams.mb.softbank.jp^
 ||bvr.ast.snva.jp^
+||bvr.snva.jp^
 ||cookie.sync.usonar.jp^
 ||imgstat.ameba.jp^
 ||ip2c.landscape.co.jp^
@@ -27256,6 +27263,7 @@ charlestownwyllie.oaklawnnonantum.com^
 ||log.nordot.jp^
 ||log000.goo.ne.jp^
 ||omt.shinobi.jp^
+||ranking.apis.sankei-digital.co.jp^
 ||rcm.shinobi.jp^
 ||sstats.mora.jp^
 ||sync.shinobi.jp^
@@ -27264,6 +27272,7 @@ charlestownwyllie.oaklawnnonantum.com^
 ||t.seesaa.net^
 ||tag.cribnotes.jp^
 ||torimochi.line-apps.com^
+||tr.reco.combz.jp^
 ||track.thebase.in^
 ||tracker.520call.me^
 ||userdive.com^
@@ -36509,7 +36518,6 @@ adbetnet.com
 @@||yzzkb.com.cn^*ad.
 ||immedlinkum.info^
 ||xayah.date^
-||d.8181zx.com^
 ||003store.com^
 ||1.01fy.cn^
 ||1.1010pic.com^
@@ -36802,6 +36810,7 @@ adbetnet.com
 ||cxy88.friok.com^
 ||d*.ruiwen.com^
 ||d*.xinshipu.com^
+||d.8181zx.com^
 ||d.ab126.com^
 ||d.dgzj.com^
 ||d.ziyuanm.com^
@@ -37261,8 +37270,6 @@ adbetnet.com
 ||runkao.net^
 ||stunninglover.com^
 ||watakaw133.xyz^
-||huosuniao.com^
-||mohaijishu.cn^
 ||01w47q.cn^
 ||0217qpineuxbcdhopswkvf.xyz^
 ||0224fqpowiuxybnmvdfghj.xyz^
@@ -38180,6 +38187,7 @@ adbetnet.com
 ||huixingcheng.cn^
 ||hunpp.com^
 ||huodiyun.cn^
+||huosuniao.com^
 ||huoyiad1.cn^
 ||hvie6u.cn^
 ||hwertd.xyz^
@@ -38532,6 +38540,7 @@ adbetnet.com
 ||mmszxc.top^
 ||mmwdwg.cn^
 ||mnptinibfbv.com^
+||mohaijishu.cn^
 ||monimoni.top^
 ||moolkv.cn^
 ||morningpiggy.com^
