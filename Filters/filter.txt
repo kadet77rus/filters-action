@@ -3,7 +3,7 @@
 ! Description: Filter composed of several other filters (AdGuard Base filter, Social media filter, Tracking Protection filter, Mobile ads filter, EasyList, EasyPrivacy, etc) and simplified specifically to be better compatible with DNS-level ad blocking.
 ! Homepage: https://github.com/AdguardTeam/AdguardSDNSFilter
 ! License: https://github.com/AdguardTeam/AdguardSDNSFilter/blob/master/LICENSE
-! Last modified: 2021-01-11T00:27:24.358Z
+! Last modified: 2021-01-11T02:20:16.306Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.8
 !
@@ -27250,6 +27250,7 @@ charlestownwyllie.oaklawnnonantum.com^
 ||bvr.ast.snva.jp^
 ||bvr.snva.jp^
 ||cookie.sync.usonar.jp^
+||delivery.satr.jp^
 ||imgstat.ameba.jp^
 ||ip2c.landscape.co.jp^
 ||ipcheck.blogsys.jp^
@@ -39551,6 +39552,11 @@ adbetnet.com
 ||sa669.com^
 ||xdh0808.com^
 ||yunsennet.com^
+||3337735.com^
+||3337780.com^
+||3337736.com^
+||alime-pic.oss-cn-hangzhou.aliyuncs.com^
+||dietfd.com^
 ||webkaka.com^*x50.
 ||69lm.com.cn^
 ||qhdfxkj.com^
