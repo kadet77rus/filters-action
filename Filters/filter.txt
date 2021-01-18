@@ -3,7 +3,7 @@
 ! Description: Filter composed of several other filters (AdGuard Base filter, Social media filter, Tracking Protection filter, Mobile ads filter, EasyList, EasyPrivacy, etc) and simplified specifically to be better compatible with DNS-level ad blocking.
 ! Homepage: https://github.com/AdguardTeam/AdguardSDNSFilter
 ! License: https://github.com/AdguardTeam/AdguardSDNSFilter/blob/master/LICENSE
-! Last modified: 2021-01-18T15:23:58.196Z
+! Last modified: 2021-01-18T16:32:44.352Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.8
 !
@@ -17116,7 +17116,6 @@ vkcdnservice.appspot.com^
 ||trafficbarads.com^
 ||trafficbee.com^
 ||trafficbroker.com^
-||trafficfabrik.com^
 ||trafficfactory.biz^
 ||trafficforce.com^
 ||trafficformoney.com^
@@ -27675,6 +27674,8 @@ charlestownwyllie.oaklawnnonantum.com^
 ! `window.adswellBaseDomain`
 ! https://damskiy.xyz/vendor/lib/oY.js
 !
+||sm-ini2.com^
+||node.sm-dafa.com^
 ||7nkbwdf1uq.ru^
 ||33a89nw03k.ru^
 ||biocdn.net^
@@ -33187,6 +33188,7 @@ adbetnet.com
 ||topiaserv.net^
 ||trabro.com^
 ||tracknet.twyn.com^
+||trafficfabrik.com^
 ||trafficlayer.de^
 ||traffictrack.de^
 ||transmatico.com^
@@ -33217,6 +33219,7 @@ adbetnet.com
 ||wz-werbewelt.de^
 ||xaded.de^
 ||xiji.de^
+||xtreff69.com^
 ||yoomedia.de^
 ||youads.de^
 ||z0a.de^
@@ -37413,6 +37416,7 @@ adbetnet.com
 ||stunninglover.com^
 ||watakaw133.xyz^
 ||199zw.com^
+||yangtzeev.com^
 ||lq0s3c.cn^
 ||huitiankuaiji.com^
 ||peiliao-china.com^
