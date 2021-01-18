@@ -3,7 +3,7 @@
 ! Description: Filter composed of several other filters (AdGuard Base filter, Social media filter, Tracking Protection filter, Mobile ads filter, EasyList, EasyPrivacy, etc) and simplified specifically to be better compatible with DNS-level ad blocking.
 ! Homepage: https://github.com/AdguardTeam/AdguardSDNSFilter
 ! License: https://github.com/AdguardTeam/AdguardSDNSFilter/blob/master/LICENSE
-! Last modified: 2021-01-18T13:41:42.188Z
+! Last modified: 2021-01-18T14:30:19.490Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.8
 !
@@ -221,7 +221,6 @@
 ||protawe.com^
 ||awprt.com^
 ||overkirliaan.com^
-||chatintr.com^
 ||delivery.fabrouter.com^
 ||rdr.wargaming.net^
 ||ppcmate.com^
@@ -33001,6 +33000,7 @@ adbetnet.com
 ||bannerchange.net^
 ||bannerheld.de^
 ||bauernative.com^
+||bb2022.info^
 ||biallo1.de^
 ||biallo2.de^
 ||biallo3.de^
@@ -33013,6 +33013,7 @@ adbetnet.com
 ||bwads24.com^
 ||c-points.de^
 ||cashdorado.de^
+||chatintr.com^
 ||ci-marketing.de^
 ||codes.wai.it^
 ||comads.de^
