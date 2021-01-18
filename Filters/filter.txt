@@ -3,7 +3,7 @@
 ! Description: Filter composed of several other filters (AdGuard Base filter, Social media filter, Tracking Protection filter, Mobile ads filter, EasyList, EasyPrivacy, etc) and simplified specifically to be better compatible with DNS-level ad blocking.
 ! Homepage: https://github.com/AdguardTeam/AdguardSDNSFilter
 ! License: https://github.com/AdguardTeam/AdguardSDNSFilter/blob/master/LICENSE
-! Last modified: 2021-01-18T14:30:19.490Z
+! Last modified: 2021-01-18T15:23:58.196Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.8
 !
@@ -18,6 +18,8 @@
 !
 !! https://a.bestcontentitem.top/warp/*?r=
 !
+||wcwcads.net^
+||crisistuesdayartillery.com^
 ||avkyu1tesnwy.com^
 ||mxuiso.com^
 ||runnersgunpowder.com^
@@ -4443,6 +4445,7 @@ vkcdnservice.appspot.com^
 ||delayedtemporarilybakery.com^
 ||deliberateporridge.com^
 ||delightfulold.com^
+||deline-sunction.com^
 ||deliverymodo.com^
 ||deloplen.com^
 ||deludesobbingdeliberately.com^
@@ -32920,6 +32923,7 @@ adbetnet.com
 ! Source name: EasyList Germany ad servers
 ! Source: https://raw.githubusercontent.com/easylist/easylistgermany/master/easylistgermany/easylistgermany_adservers.txt
 !
+||4adtf.com.^
 ||4adtf.com^
 ||4rm.de^
 ||a3h.de^
@@ -33023,6 +33027,7 @@ adbetnet.com
 ||cowana-adserver.de^
 ||cuiron.de^
 ||cussixia.de^
+||data-analyst.biz^
 ||data-slimspots.com^
 ||de-ads.de^
 ||def-platform.com^
