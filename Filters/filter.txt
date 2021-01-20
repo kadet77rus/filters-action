@@ -3,7 +3,7 @@
 ! Description: Filter composed of several other filters (AdGuard Base filter, Social media filter, Tracking Protection filter, Mobile ads filter, EasyList, EasyPrivacy, etc) and simplified specifically to be better compatible with DNS-level ad blocking.
 ! Homepage: https://github.com/AdguardTeam/AdguardSDNSFilter
 ! License: https://github.com/AdguardTeam/AdguardSDNSFilter/blob/master/LICENSE
-! Last modified: 2021-01-20T08:36:27.076Z
+! Last modified: 2021-01-20T09:42:10.556Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.8
 !
@@ -103,7 +103,6 @@
 ||mughaymil.site^
 ||sellerbackstagejolly.com^
 ||jc743hbc6.info^
-||fathuntsgall.com^
 ||maphuahin.com^
 ||t.ajrkm.link^
 ||secureaddisplay.com^
@@ -4028,6 +4027,7 @@ vkcdnservice.appspot.com^
 ||ckotfhgn.com^
 ||claimbit.tk^
 ||clairedikio.club^
+||clairvoyantvigourcelebrity.com^
 ||clarizonsimp.top^
 ||clasphs.xyz^
 ||classisingew.club^
@@ -5393,6 +5393,7 @@ vkcdnservice.appspot.com^
 ||fasvgvzxsqxqhu.com^
 ||fatbuydoc.com^
 ||fatchilli.media^
+||fathuntsgall.com^
 ||fatrjjcm.com^
 ||fatrvclgpnb.com^
 ||fatwalkinger.club^
@@ -16705,6 +16706,7 @@ vkcdnservice.appspot.com^
 ||sedatorsinted.info^
 ||sedatorslegallock.info^
 ||sedidencesothere.info^
+||sedodna.com^
 ||sedoparking.com^
 ||seductionprofits.com^
 ||seecontentdelivery.info^
@@ -27702,6 +27704,7 @@ charlestownwyllie.oaklawnnonantum.com^
 ||mp3dance.today^
 ||lidplay.net^
 ||bcvideod.com^
+||atlaqs.com^
 ||allowandgo.link^
 ||jlpbyt.com^
 ||porno365go.com^
@@ -31903,6 +31906,7 @@ adbetnet.com
 ||unisound.cdnvideo.ru^
 ||pp.muzofon-online.com^
 ||ban.zab.ru^
+||prostoimya.kino-o-voine.ru^
 ||banner*.kinogo.by^
 ||m1.extrutor.org^
 ||a.kakoysegodnyaprazdnik.ru^
