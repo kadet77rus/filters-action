@@ -3,7 +3,7 @@
 ! Description: Filter composed of several other filters (AdGuard Base filter, Social media filter, Tracking Protection filter, Mobile ads filter, EasyList, EasyPrivacy, etc) and simplified specifically to be better compatible with DNS-level ad blocking.
 ! Homepage: https://github.com/AdguardTeam/AdguardSDNSFilter
 ! License: https://github.com/AdguardTeam/AdguardSDNSFilter/blob/master/LICENSE
-! Last modified: 2021-01-21T23:29:43.769Z
+! Last modified: 2021-01-22T00:41:12.892Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.8
 !
@@ -36433,6 +36433,7 @@ adbetnet.com
 ||cp2.eastmoney.com^
 ||cpm.cm.kankan.com^
 ||d-test.39.net^
+||d.bodu365.co^*.js
 ||d0.xcar.com.cn^
 ||d1.3158.cn^
 ||d13jhr4vol1304.cloudfront.net^
@@ -36668,7 +36669,6 @@ adbetnet.com
 ||zhimg.com^*adx
 ||zt2088.com^
 ||ztyumn.ifeng.com^
-||d.bodu365.co^*.js
 @@||95599.cn^*ad
 @@||abchina.com^*ad
 @@||ad.10010.com^
@@ -37447,8 +37447,6 @@ adbetnet.com
 ||runkao.net^
 ||stunninglover.com^
 ||watakaw133.xyz^
-||nuanyanghb.com^
-||uuu88.top^
 ||01w47q.cn^
 ||0217qpineuxbcdhopswkvf.xyz^
 ||0224fqpowiuxybnmvdfghj.xyz^
@@ -38819,6 +38817,7 @@ adbetnet.com
 ||nsjpu.com^
 ||nthfds.xyz^
 ||ntpddq.com^
+||nuanyanghb.com^
 ||nuoqingck.cn^
 ||nv43.com^
 ||nwwap.com^
@@ -39286,6 +39285,7 @@ adbetnet.com
 ||ut0ej.cn^
 ||uunewcar.com^
 ||uuopp.com^
+||uuu88.top^
 ||uuwhg.com^
 ||uvmqpum.cn^
 ||uwmoghx.cn^
