@@ -3,7 +3,7 @@
 ! Description: Filter composed of several other filters (AdGuard Base filter, Social media filter, Tracking Protection filter, Mobile ads filter, EasyList, EasyPrivacy, etc) and simplified specifically to be better compatible with DNS-level ad blocking.
 ! Homepage: https://github.com/AdguardTeam/AdguardSDNSFilter
 ! License: https://github.com/AdguardTeam/AdguardSDNSFilter/blob/master/LICENSE
-! Last modified: 2021-01-26T10:10:40.450Z
+! Last modified: 2021-01-26T11:15:16.930Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.8
 !
@@ -18,6 +18,7 @@
 !
 !! https://a.bestcontentitem.top/warp/*?r=
 !
+||charitablemilletplumber.com^
 ||bitzad.com^
 ||baxusanu.pro^
 ||lgpumcja.com^
@@ -30,7 +31,6 @@
 ||flippantreprehensiblecharming.com^
 ||anniversarytoothbrush.com^
 ||povapeba.xyz^
-||freychang.fun^
 ||lismcanalys.fun^
 ||parkurl.com^
 ||phirgese.com^
@@ -4907,6 +4907,7 @@ vkcdnservice.appspot.com^
 ||edspoiletkni.club^
 ||edsufferen.club^
 ||edsurrowin.club^
+||edthoutfre.fun^
 ||educatednicer.com^
 ||educationdemotediabete.com^
 ||eduyzcjsnoeokj.com^
@@ -5670,6 +5671,7 @@ vkcdnservice.appspot.com^
 ||frenchayan.club^
 ||frequestabure.site^
 ||freshborne.com^
+||freychang.fun^
 ||frfnlvnpzeju.com^
 ||frgbgwnbjkgco.com^
 ||frhbrkjgerikm2f8mjek09.com^
@@ -9352,6 +9354,7 @@ vkcdnservice.appspot.com^
 ||pkytbidauolavq.com^
 ||plainlycradlescalp.com^
 ||plaintiffalphabetslacken.com^
+||plannerladyreality.com^
 ||plantationthrillednoncommittal.com^
 ||plasminori.club^
 ||plathwardsve.site^
@@ -11981,6 +11984,7 @@ vkcdnservice.appspot.com^
 ||virashux.net^
 ||virgbmkmear.com^
 ||visariomedia.com^
+||visitsfunk.com^
 ||visitstrack.com^
 ||vitoryjober.club^
 ||viunypnvhcw.com^
@@ -34211,6 +34215,7 @@ adbetnet.com
 ! Source name: EasyList China ad servers
 ! Source: https://easylist-downloads.adblockplus.org/easylistchina.txt
 !
+||hnxbls.cn^
 ||00-gov.cn^
 ||0024aaaa.com^
 ||00880808.com^
@@ -37359,6 +37364,7 @@ adbetnet.com
 ||runkao.net^
 ||stunninglover.com^
 ||watakaw133.xyz^
+||xingnu.site^
 ||gzqswl.cn^
 ||01w47q.cn^
 ||0217qpineuxbcdhopswkvf.xyz^
