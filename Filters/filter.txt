@@ -3,7 +3,7 @@
 ! Description: Filter composed of several other filters (AdGuard Base filter, Social media filter, Tracking Protection filter, Mobile ads filter, EasyList, EasyPrivacy, etc) and simplified specifically to be better compatible with DNS-level ad blocking.
 ! Homepage: https://github.com/AdguardTeam/AdguardSDNSFilter
 ! License: https://github.com/AdguardTeam/AdguardSDNSFilter/blob/master/LICENSE
-! Last modified: 2021-01-26T09:08:16.721Z
+! Last modified: 2021-01-26T10:10:40.450Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.8
 !
@@ -33524,9 +33524,9 @@ adbetnet.com
 !
 ! Title: hostsVN
 ! Description: The filter contains ad and tracking networks in Vietnam.
-! Last modified: 25 Jan 2021 20:48 UTC+7
-! Version: 2101252048
-! Blocked: 669 rules
+! Last modified: 26 Jan 2021 16:34 UTC+7
+! Version: 2101261634
+! Blocked: 676 rules
 ! Expires: 1 days (update frequency)
 ! Homepage: https://bigdargon.github.io/hostsVN/
 !
@@ -33716,6 +33716,7 @@ adbetnet.com
 ||admedia.com.vn^
 ||admin.sothuchi.vn^
 ||adpostback.headlines.pw^
+||ads-backend.nhadatmoi.net^
 ||ads-cdn.fptplay.net^
 ||ads.1thegioi.vn^
 ||ads.baoangiang.com.vn^
@@ -33737,6 +33738,7 @@ adbetnet.com
 ||ads.lamchame.vn^
 ||ads.laodongnghean.vn^
 ||ads.nghenhinvietnam.vn^
+||ads.nhadatmoi.net^
 ||ads.phunuonline.com.vn^
 ||ads.phunusuckhoe.vn^
 ||ads.phunuvagiadinh.vn^
@@ -33967,6 +33969,7 @@ adbetnet.com
 ||partner.accesstrade.vn^
 ||report.vnay.vn^
 ||s.baomoi.xdn.vn^
+||s.homedy.com^
 ||s.kenh14.vn^
 ||s.soha.vn^
 ||s.tuoitre.vn^
@@ -34078,17 +34081,21 @@ adbetnet.com
 ||fb88go.com^
 ||fb88live.com^
 ||fb88sports.com^
+||fcb8.com^
+||fcb88d.com^
 ||five88.biz^
 ||five88.com^
 ||five88.net^
 ||gdwbetvn888.com^
 ||gdwviet.com^
+||gi888.cc^
 ||go88.club^
 ||go88.com^
 ||goal123.com^
 ||goal68.top^
 ||ibet889.com^
 ||income88.com^
+||interwinvn.com^
 ||jbovn.com^
 ||k8vn03.com^
 ||keotot.net^
