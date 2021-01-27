@@ -3,7 +3,7 @@
 ! Description: Filter composed of several other filters (AdGuard Base filter, Social media filter, Tracking Protection filter, Mobile ads filter, EasyList, EasyPrivacy, etc) and simplified specifically to be better compatible with DNS-level ad blocking.
 ! Homepage: https://github.com/AdguardTeam/AdguardSDNSFilter
 ! License: https://github.com/AdguardTeam/AdguardSDNSFilter/blob/master/LICENSE
-! Last modified: 2021-01-26T23:09:33.363Z
+! Last modified: 2021-01-27T00:13:58.168Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.8
 !
@@ -34224,8 +34224,6 @@ adbetnet.com
 ! Source name: EasyList China ad servers
 ! Source: https://easylist-downloads.adblockplus.org/easylistchina.txt
 !
-||hnxbls.cn^
-||biohailijie.cn^
 ||00-gov.cn^
 ||0024aaaa.com^
 ||00880808.com^
@@ -34584,6 +34582,7 @@ adbetnet.com
 ||billionfocus.com^
 ||bingyinq.com^
 ||biochempop.com^
+||biohailijie.cn^
 ||bivitr.com^
 ||bj-bytsk.com^
 ||bjedpt.com^
@@ -35020,6 +35019,7 @@ adbetnet.com
 ||hnhycp.com^
 ||hnnuange.com^
 ||hntymg.com^
+||hnxbls.cn^
 ||hnyiche3.com^
 ||hnyny.com^
 ||hongchenzhilu.com^
@@ -37374,10 +37374,6 @@ adbetnet.com
 ||runkao.net^
 ||stunninglover.com^
 ||watakaw133.xyz^
-||dhdgkj.com^
-||jinkelai66.com^
-||xingnu.site^
-||gzqswl.cn^
 ||01w47q.cn^
 ||0217qpineuxbcdhopswkvf.xyz^
 ||0224fqpowiuxybnmvdfghj.xyz^
@@ -37963,6 +37959,7 @@ adbetnet.com
 ||dglscm.cn^
 ||dgxzwj.com^
 ||dh54wf.xyz^
+||dhdgkj.com^
 ||dhuhui.cn^
 ||diangezan.me^
 ||dianshihuanping.cn^
@@ -38207,6 +38204,7 @@ adbetnet.com
 ||gzmzts.com^
 ||gznsyh.com^
 ||gznwn.com^
+||gzqswl.cn^
 ||gzrljx.cn^
 ||gzzena.com^
 ||h2pzh.cn^
@@ -38421,6 +38419,7 @@ adbetnet.com
 ||jingoulong.cn^
 ||jingxiangyalvji.cn^
 ||jingyuzuo.top^
+||jinkelai66.com^
 ||jinliaoyang.com^
 ||jinlubaojie.cn^
 ||jinrianshan.com^
@@ -39384,6 +39383,7 @@ adbetnet.com
 ||xieyanmin.com.cn^
 ||xindelin.cn^
 ||xinghao89.com^
+||xingnu.site^
 ||xingpingmaoyi.cn^
 ||xingsky.cn^
 ||xingtai0.com^
