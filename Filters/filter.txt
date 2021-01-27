@@ -3,7 +3,7 @@
 ! Description: Filter composed of several other filters (AdGuard Base filter, Social media filter, Tracking Protection filter, Mobile ads filter, EasyList, EasyPrivacy, etc) and simplified specifically to be better compatible with DNS-level ad blocking.
 ! Homepage: https://github.com/AdguardTeam/AdguardSDNSFilter
 ! License: https://github.com/AdguardTeam/AdguardSDNSFilter/blob/master/LICENSE
-! Last modified: 2021-01-27T22:05:03.908Z
+! Last modified: 2021-01-27T23:07:23.455Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.8
 !
@@ -27354,6 +27354,7 @@ charlestownwyllie.oaklawnnonantum.com^
 ||telemetry.jivosite.com^
 ||top.elec.ru^
 ||track.recreativ.ru^
+||track.spacepush.ru^
 ||tracking.gpm-rtv.ru^
 ||tracking.retailrocket.net^
 ||upstats.yadro.ru^
@@ -37367,12 +37368,6 @@ adbetnet.com
 ||runkao.net^
 ||stunninglover.com^
 ||watakaw133.xyz^
-||cqshaseng.com^
-||yuandongoffice.com^
-||lshmjz.com^
-||jindowins.com^
-||fengmishop.cn^
-||topazedu.com^
 ||01w47q.cn^
 ||0217qpineuxbcdhopswkvf.xyz^
 ||0224fqpowiuxybnmvdfghj.xyz^
@@ -37885,6 +37880,7 @@ adbetnet.com
 ||cqbaitong.cn^
 ||cqgya.com^
 ||cqlxscdc.top^
+||cqshaseng.com^
 ||crzytm.com^
 ||cs12d.com^
 ||csalsylqx.com^
@@ -38055,6 +38051,7 @@ adbetnet.com
 ||feimotailan.cn^
 ||feipaihehuoren.cn^
 ||fenbengpan.cn^
+||fengmishop.cn^
 ||ff01s.cn^
 ||ffanq.com^
 ||ffg34fg.78zw.com^
@@ -38414,6 +38411,7 @@ adbetnet.com
 ||jiirz.com^
 ||jilinxinfukeji.com^
 ||jinchaoyu.com^
+||jindowins.com^
 ||jingdayiyuan.com^
 ||jingoulong.cn^
 ||jingxiangyalvji.cn^
@@ -38606,6 +38604,7 @@ adbetnet.com
 ||lq0s3c.cn^
 ||lq1.abcxs.com^
 ||lr96.top^
+||lshmjz.com^
 ||lsiwd.cn^
 ||lssqxbj.cn^
 ||lusrg.cn^
@@ -39169,6 +39168,7 @@ adbetnet.com
 ||toissue.cn^
 ||tongbuchi.com^
 ||tongjiwo.com^
+||topazedu.com^
 ||topvcbank.com^
 ||toujing4.top^
 ||toujing5.top^
@@ -39542,6 +39542,7 @@ adbetnet.com
 ||ytdksb.com^
 ||ytmaitian.com^
 ||ytmaksim.cn^
+||yuandongoffice.com^
 ||yuanhangpiju.cn^
 ||yuanqitu.com^
 ||yueduyy.com^
