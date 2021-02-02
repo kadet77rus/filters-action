@@ -3,7 +3,7 @@
 ! Description: Filter composed of several other filters (AdGuard Base filter, Social media filter, Tracking Protection filter, Mobile ads filter, EasyList, EasyPrivacy, etc) and simplified specifically to be better compatible with DNS-level ad blocking.
 ! Homepage: https://github.com/AdguardTeam/AdguardSDNSFilter
 ! License: https://github.com/AdguardTeam/AdguardSDNSFilter/blob/master/LICENSE
-! Last modified: 2021-02-02T16:11:09.061Z
+! Last modified: 2021-02-02T17:36:25.300Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.8
 !
@@ -2055,6 +2055,7 @@ www.llllllllllll.net^
 ||rsz.sk^
 ! https://github.com/AdguardTeam/AdguardFilters/issues/41373
 ||bannery.navratdoreality.cz^
+||report.seznamzpravy.cz^
 ! https://github.com/AdguardTeam/AdguardFilters/issues/58569
 ||a.b.napiszar.com^
 ! https://github.com/AdguardTeam/AdguardFilters/issues/19323
@@ -27636,6 +27637,8 @@ charlestownwyllie.oaklawnnonantum.com^
 ! `window.adswellBaseDomain`
 ! https://damskiy.xyz/vendor/lib/oY.js
 !
+||acmetex.ru^
+||prdlam.com^
 ||kkmacsqsbf.info^
 ||xxyolk.com^
 ||zswzri7ju3.ru^
@@ -31844,6 +31847,7 @@ adbetnet.com
 !
 ! Section contains the list of advertising networks, which are hosted on non advertising sites as subdomains
 !
+||adbn.masterinvest.info^
 ||bs.orsk.ru^
 ||vast4.kinogo.la^
 ||dsn-kuban.krasnodar.su^
