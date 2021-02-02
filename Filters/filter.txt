@@ -3,7 +3,7 @@
 ! Description: Filter composed of several other filters (AdGuard Base filter, Social media filter, Tracking Protection filter, Mobile ads filter, EasyList, EasyPrivacy, etc) and simplified specifically to be better compatible with DNS-level ad blocking.
 ! Homepage: https://github.com/AdguardTeam/AdguardSDNSFilter
 ! License: https://github.com/AdguardTeam/AdguardSDNSFilter/blob/master/LICENSE
-! Last modified: 2021-02-02T04:12:38.711Z
+! Last modified: 2021-02-02T05:12:01.145Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.8
 !
@@ -33597,9 +33597,9 @@ adbetnet.com
 !
 ! Title: hostsVN
 ! Description: The filter contains ad and tracking networks in Vietnam.
-! Last modified: 26 Jan 2021 16:34 UTC+7
-! Version: 2101261634
-! Blocked: 676 rules
+! Last modified: 02 Feb 2021 11:34 UTC+7
+! Version: 2102021134
+! Blocked: 688 rules
 ! Expires: 1 days (update frequency)
 ! Homepage: https://bigdargon.github.io/hostsVN/
 !
@@ -33659,7 +33659,6 @@ adbetnet.com
 ||clickbuy.bz^
 ||contineljs.com^
 ||dable.io^
-||discovery.api.zaloapp.com^
 ||donglogs.com^
 ||eclick.vn^
 ||eva*-ad.24hstatic.com^
@@ -33731,6 +33730,7 @@ adbetnet.com
 ||sharks.vn^
 ||shop-cdn.coccoc.com^
 ||shopping.coccoc.com^
+||slimads.vn^
 ||smartconvert.co^
 ||sourcetobin.com^
 ||sporttv.today^
@@ -33868,6 +33868,7 @@ adbetnet.com
 ||bluemaulpuffs.com^
 ||boxpr.aiservice.vn^
 ||cdn-ads.thesaigontimes.vn^
+||cdn.bongdadem.net^
 ||cdn2.cache.vn^
 ||cdnasset.dantri.com.vn^
 ||chiasephim.xyz^
@@ -34037,6 +34038,7 @@ adbetnet.com
 ||logsbin.dantri.com.vn^
 ||logscafef.channelvn.net^
 ||monitor.teko.vn^
+||myharavan.com^
 ||newlog.daidoanket.vn^
 ||nstat.headlines.pw^
 ||partner.accesstrade.vn^
@@ -34105,10 +34107,12 @@ adbetnet.com
 ||widget.subiz.net^
 ||widget.subiz.xyz^
 ||widgetv4.subiz.com^
+||1126bet.com^
 ||11bet.com^
 ||11bet.net^
 ||11bet.win^
 ||12b99.com^
+||179bet.net^
 ||1xbetvn.com^
 ||388bet.top^
 ||388bet.us^
@@ -34154,6 +34158,7 @@ adbetnet.com
 ||fb88go.com^
 ||fb88live.com^
 ||fb88sports.com^
+||fb88viet.com^
 ||fcb8.com^
 ||fcb88d.com^
 ||five88.biz^
@@ -34170,10 +34175,12 @@ adbetnet.com
 ||income88.com^
 ||interwinvn.com^
 ||jbovn.com^
+||k8vina17.com^
 ||k8vn03.com^
 ||keotot.net^
 ||letou8868.com^
 ||lixi88.info^
+||lixi888.online^
 ||lode88.vip^
 ||lucky88.com^
 ||lucky88.live^
@@ -34219,6 +34226,7 @@ adbetnet.com
 ||sodo14.com^
 ||sun.win^
 ||sv88.com^
+||t8betvip.com^
 ||tai789.net^
 ||taib52.club^
 ||taimacau.club^
@@ -34232,6 +34240,7 @@ adbetnet.com
 ||v7ac.com^
 ||v8.club^
 ||v9bet.com^
+||v9jvn.com^
 ||vic.fun^
 ||vic.win^
 ||vicwin.vip^
@@ -34246,6 +34255,9 @@ adbetnet.com
 ||vua1004.club^
 ||vua1005.club^
 ||vwinnow.com^
+||vwinthethao.com^
+||vx88.com^
+||vx88e.com^
 ||w388.com^
 ||w88.vin^
 ||w88bro.com^
