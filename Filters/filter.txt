@@ -3,21 +3,11 @@
 ! Description: Filter composed of several other filters (AdGuard Base filter, Social media filter, Tracking Protection filter, Mobile ads filter, EasyList, EasyPrivacy, etc) and simplified specifically to be better compatible with DNS-level ad blocking.
 ! Homepage: https://github.com/AdguardTeam/AdguardSDNSFilter
 ! License: https://github.com/AdguardTeam/AdguardSDNSFilter/blob/master/LICENSE
-! Last modified: 2021-02-03T14:04:53.418Z
+! Last modified: 2021-02-03T15:04:30.527Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.8
 !
-!
-! Source name: AdGuard Base filter ad servers
-! Source: https://raw.githubusercontent.com/AdguardTeam/AdguardFilters/master/EnglishFilter/sections/adservers.txt
-!
-!
-! Section contains list of advertising networks
-!
-! The rules with hints are at the end of file
-!
-!! https://a.bestcontentitem.top/warp/*?r=
-!
+||eatsidebicep.com^
 ||drawnperink.com^
 ||unrulyrotate.com^
 ||exchange-traffic.com^
@@ -27693,6 +27683,20 @@ charlestownwyllie.oaklawnnonantum.com^
 ||xclk-integracion.com^
 ||yestorrents.org^
 ||zebestof.com^
+!
+
+!
+! Source name: AdGuard Russian filter ad servers
+! Source: https://raw.githubusercontent.com/AdguardTeam/AdguardFilters/master/RussianFilter/sections/adservers.txt
+!
+!
+! Содержит доменные имена, использующиеся рекламными сетями.
+!
+! AdsWell.ru
+! `window.adswellBaseDomain`
+! https://damskiy.xyz/vendor/lib/oY.js
+!
+||69qa.club^
 ||acmetex.ru^
 ||prdlam.com^
 ||kkmacsqsbf.info^
@@ -34361,6 +34365,7 @@ adbetnet.com
 ! Source name: EasyList China ad servers
 ! Source: https://easylist-downloads.adblockplus.org/easylistchina.txt
 !
+||28wangmeng.com^
 ||00-gov.cn^
 ||0024aaaa.com^
 ||00880808.com^
@@ -37520,6 +37525,8 @@ adbetnet.com
 ||runkao.net^
 ||stunninglover.com^
 ||watakaw133.xyz^
+||szpengliye.com^
+||flbmfc.com^
 ||01w47q.cn^
 ||0217qpineuxbcdhopswkvf.xyz^
 ||0224fqpowiuxybnmvdfghj.xyz^
