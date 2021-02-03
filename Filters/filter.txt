@@ -3,7 +3,7 @@
 ! Description: Filter composed of several other filters (AdGuard Base filter, Social media filter, Tracking Protection filter, Mobile ads filter, EasyList, EasyPrivacy, etc) and simplified specifically to be better compatible with DNS-level ad blocking.
 ! Homepage: https://github.com/AdguardTeam/AdguardSDNSFilter
 ! License: https://github.com/AdguardTeam/AdguardSDNSFilter/blob/master/LICENSE
-! Last modified: 2021-02-03T09:05:18.823Z
+! Last modified: 2021-02-03T10:04:54.405Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.8
 !
@@ -49,6 +49,7 @@
 ||kihuxyda.xyz^
 ||meerihoh.net^
 ||vv8h9vyjgnst.com^
+||shacsda.name^
 ||anniversarytoothbrush.com^
 ||povapeba.xyz^
 ||lismcanalys.fun^
@@ -95,7 +96,6 @@
 ||son-in-lawmorbid.com^
 ||kihoadoa.com^
 ||zunsoach.com^
-||kaurouby.net^
 ||assets.newsmaxwidget.com^
 ||waspaortascene.com^
 ||9997494f4d4b694d4f6702.online^
@@ -5012,6 +5012,7 @@ vkcdnservice.appspot.com^
 ||eikegolehem.com^
 ||eilsrichaels.club^
 ||eiteratebef.top^
+||eithereda.fun^
 ||eitherewindoor.club^
 ||eiuuiormjc.com^
 ||eiygqumgrobos.com^
@@ -5672,6 +5673,7 @@ vkcdnservice.appspot.com^
 ||forgivencardiac.com^
 ||forgivingcynical.com^
 ||forkchristian.com^
+||forkdefendant.com^
 ||formany.club^
 ||formationconservation.com^
 ||fortsexpres.club^
@@ -5798,7 +5800,6 @@ vkcdnservice.appspot.com^
 ||fzehxxsdxyfg.com^
 ||fzgitqrqrsyyiv.com^
 ||fzhvebnia.com^
-||fzj3v7sch2xg5gosh60vpkrth5c6cngvj5ivd9kg5ajcdl2vlp2ocj5fjbto.me^
 ||fzlkdwivfnreg.com^
 ||fzmogmfqh.com^
 ||fzorwhus.com^
@@ -7185,6 +7186,7 @@ vkcdnservice.appspot.com^
 ||kateriviejos.pro^
 ||katxkxcncwool.com^
 ||kaukoany.net^
+||kaurouby.net^
 ||kawmxbphaj.com^
 ||kayakm.com^
 ||kbaomelffq.com^
@@ -8120,6 +8122,7 @@ vkcdnservice.appspot.com^
 ||mjbuuxt7l18r.com^
 ||mjcvdxnmp.com^
 ||mjkvwpabdce.com^
+||mjlsiopjesbn.com^
 ||mjmbfjbgtqpu.com^
 ||mjpjjbbvct.com^
 ||mjquyspsrgybs.com^
@@ -11659,6 +11662,7 @@ vkcdnservice.appspot.com^
 ||ueopjincquazoo.com^
 ||uesdpbrej.com^
 ||uessentent.fun^
+||ueudahqfig.com^
 ||ufeuyyfoguo.com^
 ||ufferenchme.club^
 ||uffpsmfefu.com^
@@ -27731,6 +27735,7 @@ charlestownwyllie.oaklawnnonantum.com^
 ||bhghfsa.info^
 ||3kbktygzr5.ru^
 ||betemolgar.com^
+||reashr.com^
 ||mp3dance.today^
 ||lidplay.net^
 ||bcvideod.com^
