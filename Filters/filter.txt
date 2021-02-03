@@ -3,7 +3,7 @@
 ! Description: Filter composed of several other filters (AdGuard Base filter, Social media filter, Tracking Protection filter, Mobile ads filter, EasyList, EasyPrivacy, etc) and simplified specifically to be better compatible with DNS-level ad blocking.
 ! Homepage: https://github.com/AdguardTeam/AdguardSDNSFilter
 ! License: https://github.com/AdguardTeam/AdguardSDNSFilter/blob/master/LICENSE
-! Last modified: 2021-02-02T23:06:26.582Z
+! Last modified: 2021-02-03T00:14:18.096Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.8
 !
@@ -30,7 +30,6 @@
 ||rdsb21.club^
 ||qbcpicrtdje.com^
 ||hugregregy.pro^
-||wvekalpmn.com^
 ||icoawhou.com^
 ||idswinpole.casa^
 ||irkerecue.com^
@@ -3268,6 +3267,7 @@ vkcdnservice.appspot.com^
 ||autoremerciez.xyz^
 ||auvillargeois.site^
 ||auxml.com^
+||avbpaaypbe.com^
 ||avenuehuminterpretation.com^
 ||averaladmi.info^
 ||averalist.club^
@@ -5816,6 +5816,7 @@ vkcdnservice.appspot.com^
 ||gaindemeanourimprovise.com^
 ||gaitdrummerauto.com^
 ||gaitheed.com^
+||galacticmenueasier.com^
 ||galaks.io^
 ||galampgab.com^
 ||galbrechen.club^
@@ -7775,6 +7776,7 @@ vkcdnservice.appspot.com^
 ||lucretius-ada.com^
 ||ludithyshi.pro^
 ||ludovwmhazsx.com^
+||luggagetumbledapple.com^
 ||lulrtvfcy.com^
 ||lupoot.com^
 ||luqafzbdscd.com^
@@ -11299,6 +11301,7 @@ vkcdnservice.appspot.com^
 ||tic-tic-toc.com^
 ||ticrowdingne.club^
 ||tidyboressire.com^
+||tidydownright.com^
 ||tieecstasythrong.com^
 ||tieyggub.com^
 ||tifbhyfrik.com^
@@ -12468,6 +12471,7 @@ vkcdnservice.appspot.com^
 ||wv63l89etbhe.com^
 ||wvahelphpfnhyx.com^
 ||wvbdtcyhgwy.com^
+||wvekalpmn.com^
 ||wvesvozyuoxg.com^
 ||wvgrpwdaol.bid^
 ||wvhsouzoan.com^
