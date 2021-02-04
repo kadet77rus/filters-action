@@ -3,7 +3,7 @@
 ! Description: Filter composed of several other filters (AdGuard Base filter, Social media filter, Tracking Protection filter, Mobile ads filter, EasyList, EasyPrivacy, etc) and simplified specifically to be better compatible with DNS-level ad blocking.
 ! Homepage: https://github.com/AdguardTeam/AdguardSDNSFilter
 ! License: https://github.com/AdguardTeam/AdguardSDNSFilter/blob/master/LICENSE
-! Last modified: 2021-02-03T23:12:51.744Z
+! Last modified: 2021-02-04T00:12:16.489Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.8
 !
@@ -27527,6 +27527,7 @@ charlestownwyllie.oaklawnnonantum.com^
 ||informers.sinoptik.ua^
 ! Vietnamese
 ||analytics.yomedia.vn^
+||f-emc.ngsp.gov.vn^
 ||tracking.aita.gov.vn^
 
 !
@@ -34378,7 +34379,6 @@ adbetnet.com
 ! Source name: EasyList China ad servers
 ! Source: https://easylist-downloads.adblockplus.org/easylistchina.txt
 !
-||28wangmeng.com^
 ||00-gov.cn^
 ||0024aaaa.com^
 ||00880808.com^
@@ -34460,6 +34460,7 @@ adbetnet.com
 ||272xb.com^
 ||280dp.com^
 ||28acglz.com^
+||28wangmeng.com^
 ||293870.com^
 ||29wjns.com^
 ||2d-c.cn^
@@ -37538,8 +37539,6 @@ adbetnet.com
 ||runkao.net^
 ||stunninglover.com^
 ||watakaw133.xyz^
-||szpengliye.com^
-||flbmfc.com^
 ||01w47q.cn^
 ||0217qpineuxbcdhopswkvf.xyz^
 ||0224fqpowiuxybnmvdfghj.xyz^
@@ -38245,6 +38244,7 @@ adbetnet.com
 ||fjtzjy.com^
 ||fjylcy.com^
 ||fkkse.com^
+||flbmfc.com^
 ||fll007.com^
 ||fnpet.cn^
 ||fnwll.cn^
@@ -39295,6 +39295,7 @@ adbetnet.com
 ||syxsa.cn^
 ||szhgmd.com^
 ||szmxwjm.com^
+||szpengliye.com^
 ||szqifu.com^
 ||szshouzhai.com^
 ||szwzjk.cn^
