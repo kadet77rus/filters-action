@@ -3,7 +3,7 @@
 ! Description: Filter composed of several other filters (AdGuard Base filter, Social media filter, Tracking Protection filter, Mobile ads filter, EasyList, EasyPrivacy, etc) and simplified specifically to be better compatible with DNS-level ad blocking.
 ! Homepage: https://github.com/AdguardTeam/AdguardSDNSFilter
 ! License: https://github.com/AdguardTeam/AdguardSDNSFilter/blob/master/LICENSE
-! Last modified: 2021-02-05T03:04:26.938Z
+! Last modified: 2021-02-05T04:05:07.286Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.8
 !
@@ -43,9 +43,7 @@
 ||baresi.xyz^
 ||roduster.com^
 ||xtraff1cx.space^
-||ptongouh.net^
 ||shar3yourf1le.com^
-||rdsb21.club^
 ||hugregregy.pro^
 ||idswinpole.casa^
 ||irkerecue.com^
@@ -9721,6 +9719,7 @@ vkcdnservice.appspot.com^
 ||ptoafauz.net^
 ||ptoahaistais.com^
 ||ptogheeb.net^
+||ptongouh.net^
 ||ptoulsey.com^
 ||ptoumsid.net^
 ||ptoushoa.com^
@@ -10111,6 +10110,7 @@ vkcdnservice.appspot.com^
 ||rdrkxlmlqpqns.com^
 ||rdrtrk.com^
 ||rdsb2.club^
+||rdsb21.club^
 ||rdspeculear.club^
 ||rdthuvynnwgind.com^
 ||rdtk.io^
@@ -11041,6 +11041,7 @@ vkcdnservice.appspot.com^
 ||stardedbio.club^
 ||stargoug.com^
 ||starkunfinisheddestroyed.com^
+||start3dd0wnload.com^
 ||startsmajesty.com^
 ||starveornamentgeneralization.com^
 ||statutecompatibility.com^
@@ -34417,6 +34418,7 @@ adbetnet.com
 ! Source name: EasyList China ad servers
 ! Source: https://easylist-downloads.adblockplus.org/easylistchina.txt
 !
+||xn--3bs795g.chat^
 ||00-gov.cn^
 ||0024aaaa.com^
 ||00880808.com^
