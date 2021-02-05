@@ -3,7 +3,7 @@
 ! Description: Filter composed of several other filters (AdGuard Base filter, Social media filter, Tracking Protection filter, Mobile ads filter, EasyList, EasyPrivacy, etc) and simplified specifically to be better compatible with DNS-level ad blocking.
 ! Homepage: https://github.com/AdguardTeam/AdguardSDNSFilter
 ! License: https://github.com/AdguardTeam/AdguardSDNSFilter/blob/master/LICENSE
-! Last modified: 2021-02-05T07:04:02.583Z
+! Last modified: 2021-02-05T08:05:06.275Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.8
 !
@@ -33720,9 +33720,9 @@ adbetnet.com
 !
 ! Title: hostsVN
 ! Description: The filter contains ad and tracking networks in Vietnam.
-! Last modified: 02 Feb 2021 11:34 UTC+7
-! Version: 2102021134
-! Blocked: 688 rules
+! Last modified: 05 Feb 2021 14:47 UTC+7
+! Version: 2102051447
+! Blocked: 706 rules
 ! Expires: 1 days (update frequency)
 ! Homepage: https://bigdargon.github.io/hostsVN/
 !
@@ -33808,7 +33808,6 @@ adbetnet.com
 ||log*.zing.vn^
 ||log.api.zaloapp.com^
 ||log.o2o.service.zaloapp.com^
-||log.zing*.vn^
 ||mangoads.vn^
 ||masoffer.net^
 ||mclick.mobi^
@@ -33848,6 +33847,7 @@ adbetnet.com
 ||qc.coccoc.vn^
 ||qccoccocmedia.vn^
 ||rungrinh.vn^
+||sbz.vn^
 ||sdk.zadn.vn^
 ||serving-system.com^
 ||sharks.vn^
@@ -33861,9 +33861,15 @@ adbetnet.com
 ||static-ads.zaloapp.com^
 ||stats.zaloapp.com^
 ||subiz-cdn.com^
+||subiz.com^
+||subiz.com.vn^
+||subiz.net^
+||subiz.xyz^
 ||surfcountor.com^
+||t.sieu-viet.com^
 ||takataka.coccoc.com^
 ||testcentre.vn^
+||tracking.api.media.zapps.vn^
 ||tracking.playzing.g6.zing.vn^
 ||trk-pcweb.api.zaloapp.com^
 ||tuiiu.com^
@@ -33883,7 +33889,6 @@ adbetnet.com
 ||younetmedia.com^
 ||zalo-ads*.zadn.vn^
 ||zaloapp.ads.zdn.vn^
-||zlog.zingmp3.vn^
 ||zminer.zaloapp.com^
 ||zplayer-trk.zdn.vn^
 ||zplayer.trk.zapps.vn^
@@ -33957,11 +33962,15 @@ adbetnet.com
 ||adsv2.autodaily.vn^
 ||adsweb.vn^
 ||adt.com.vn^
+||adtima.net.vn^
+||adtima.org^
 ||adv.anhsangvacuocsong.vn^
 ||adv.baotintuc.vn^
+||adver.24h.com.vn^
 ||advert-admin.vnay.vn^
 ||advertisement-nhatanh.com^
 ||advserver.cgv.vn^
+||advzone.ioe.vn^
 ||adx.baolongan.vn^
 ||adx.chinmedia.vn^
 ||adx.edutimes.com.vn^
@@ -34072,6 +34081,7 @@ adbetnet.com
 ||a.vtvdigital.vn^
 ||addlog.thuvienphapluat.vn^
 ||admin.phunusuckhoe.vn^
+||admin.voh.com.vn^
 ||affiliate.chiaki.vn^
 ||alexajstrack.com^
 ||analytic.baodantoc.vn^
@@ -34091,9 +34101,9 @@ adbetnet.com
 ||analytics.viblo.asia^
 ||analytics.videocloud.top^
 ||analytics.vietnamfinance.vn^
+||analytics.vnpt.vn^
 ||analytics.vnreview.vn^
 ||api.ozui.vn^
-||api.sbz.vn^
 ||apl.headlines.pw^
 ||app.hstatic.net^
 ||btrack.homedy.com^
@@ -34110,6 +34120,8 @@ adbetnet.com
 ||fa.fpt.shop^
 ||follow.vnay.vn^
 ||google-shopping.sapoapps.vn^
+||googleshopping.sapoapps.vn^
+||gtmjs.com^
 ||hit.123c.vn^
 ||invite.baomoi.com^
 ||la.vietid.net^
@@ -34128,6 +34140,7 @@ adbetnet.com
 ||log.doanhnhan.vn^
 ||log.giaoduc.net.vn^
 ||log.infonet.vn^
+||log.kaka.me^
 ||log.kienthuc.net.vn^
 ||log.ngaynay.vn^
 ||log.nhipcaudautu.vn^
@@ -34151,6 +34164,9 @@ adbetnet.com
 ||log.vntoday.news^
 ||log.vov.vn^
 ||log.zamba.vn^
+||log.zingmp3.vn^
+||log.zingnews.vn^
+||log.zingtv.vn^
 ||log4x.nixcdn.com^
 ||logapi.misa.com.vn^
 ||logg4u.cnnd.vn^
@@ -34176,7 +34192,6 @@ adbetnet.com
 ||st-a.vtvdigital.vn^
 ||stat.headlines.pw^
 ||static.accesstrade.vn^
-||static.subiz.com^
 ||staticad.thethao247.vn^
 ||statistics.vov.vn^
 ||stats.123c.vn^
@@ -34209,8 +34224,10 @@ adbetnet.com
 ||tracking.fado.vn^
 ||tracking.fff.com.vn^
 ||tracking.hongtinnhanh.com^
+||tracking.meta.vn^
 ||tracking.tekoapis.com^
 ||tracking.tinxe.vn^
+||tracking.tv.zing.vn^
 ||tracking.vht.com.vn^
 ||tracking.vietbao.vn^
 ||tracking.vtc.vn^
@@ -34226,10 +34243,11 @@ adbetnet.com
 ||vtrack.vht.com.vn^
 ||webpush.bizfly.vn^
 ||webpush.todo.vn^
-||widget.sbz.vn^
+||widget.kyna.vn^
 ||widget.subiz.net^
 ||widget.subiz.xyz^
-||widgetv4.subiz.com^
+||zlog.mp3.zing.vn^
+||zlog.zingmp3.vn^
 ||1126bet.com^
 ||11bet.com^
 ||11bet.net^
