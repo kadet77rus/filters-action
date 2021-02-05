@@ -3,7 +3,7 @@
 ! Description: Filter composed of several other filters (AdGuard Base filter, Social media filter, Tracking Protection filter, Mobile ads filter, EasyList, EasyPrivacy, etc) and simplified specifically to be better compatible with DNS-level ad blocking.
 ! Homepage: https://github.com/AdguardTeam/AdguardSDNSFilter
 ! License: https://github.com/AdguardTeam/AdguardSDNSFilter/blob/master/LICENSE
-! Last modified: 2021-02-05T08:05:06.275Z
+! Last modified: 2021-02-05T09:04:24.631Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.8
 !
@@ -53,7 +53,6 @@
 ||stewlinedull.com^
 ||gobicyice.com^
 ||riverpush.com^
-||e-v-e-n.me^
 ||z8g0wlq5p0f6jg3k7eh2kyd58hjeskx0w9g5eu7q3m5hyq8l0xwofj3ap2nv.me^
 ||charitablemilletplumber.com^
 ||bitzad.com^
@@ -98,7 +97,6 @@
 ||bitcointraffic.ltd^
 ||laidauni.com^
 ||rapgasyogin.com^
-||top-performance.best^
 ||anomaloustradingmerciful.com^
 ||pc20160301.com^
 ||pc180101.com^
@@ -127,7 +125,6 @@
 ||femininefurrow.com^
 ||toperw.com^
 ||prosperitypartying.com^
-||overboardinclose.com^
 ||hotideiasnetwork.ml^
 ||s.bigbolz.com^
 ||7kjfbgkjbfgb.club^
@@ -3475,6 +3472,7 @@ vkcdnservice.appspot.com^
 ||becaused.club^
 ||becomeapartner.io^
 ||becomesday.club^
+||becominggland.com^
 ||bedaccustom.com^
 ||bedrapiona.com^
 ||bedrooming.club^
@@ -3580,6 +3578,7 @@ vkcdnservice.appspot.com^
 ||billionpops.com^
 ||bilrtklg.com^
 ||binalbamp.com^
+||bindinginflict.com^
 ||bindmillionairenaturalists.com^
 ||binetsrealing.club^
 ||bingooverdosegroom.com^
@@ -3685,6 +3684,7 @@ vkcdnservice.appspot.com^
 ||bordeded.pro^
 ||bororango.com^
 ||borotango.com^
+||borrowedheating.com^
 ||bostoppa.club^
 ||bot-checker.com^
 ||boubeeth.com^
@@ -4862,6 +4862,7 @@ vkcdnservice.appspot.com^
 ||dzaphjajrisgr.com^
 ||dzloxwupyxw.com^
 ||dzznyesmwj.com^
+||e-v-e-n.me^
 ||e0663490cca0296f7.com^
 ||e0a42e1a21669b.com^
 ||e13085e58935e6.com^
@@ -4908,6 +4909,7 @@ vkcdnservice.appspot.com^
 ||earsagreenj.top^
 ||earsawclearnph.site^
 ||earthincomprehensibleintrepid.com^
+||easiesttangle.com^
 ||easternpush.xyz^
 ||easy-bars.com^
 ||easy2cnjuh34jb.com^
@@ -6943,6 +6945,7 @@ vkcdnservice.appspot.com^
 ||jaxwrwvxfscq.com^
 ||jaxxenpro.com^
 ||jayhintcull.com^
+||jayruinblocked.com^
 ||jazdoxthxiv.com^
 ||jazmonbetter.pro^
 ||jb7hvcksstar.com^
@@ -8773,6 +8776,7 @@ vkcdnservice.appspot.com^
 ||nuhwyavc.com^
 ||null-point.com^
 ||nulwhbbyfdxy.com^
+||numberspenguinveto.com^
 ||numbertrck.com^
 ||nunailsum.com^
 ||nunhoefey.com^
@@ -9146,6 +9150,7 @@ vkcdnservice.appspot.com^
 ||ouzoadru.net^
 ||ovcxvpvdk.com^
 ||ovementerter.site^
+||overboardinclose.com^
 ||overboardinflected.com^
 ||overnment.club^
 ||overnmentil.site^
@@ -10686,6 +10691,7 @@ vkcdnservice.appspot.com^
 ||sel-sel-fie.com^
 ||selectserialcage.com^
 ||selfbiological.com^
+||selfevidentpotsfertility.com^
 ||selwrite.com^
 ||semblanceterrifiednoon.com^
 ||seminarpoorlyconceive.com^
@@ -11469,6 +11475,7 @@ vkcdnservice.appspot.com^
 ||tonexcitiessa.club^
 ||tonvkjxfovo.com^
 ||toodlepork.com^
+||top-performance.best^
 ||topbetfast.com^
 ||topblockchainsolutions.nl^
 ||topcpmnetwork.com^
@@ -11844,6 +11851,7 @@ vkcdnservice.appspot.com^
 ||untabilityde.site^
 ||untpresearch.club^
 ||untridrisa.cf^
+||unwillingcalumny.com^
 ||unwyiror.com^
 ||uoifloesog.com^
 ||uoijjkkkc.com^
@@ -12051,6 +12059,7 @@ vkcdnservice.appspot.com^
 ||veletonjectof.pro^
 ||velocecdn.com^
 ||vendnibtemp.com^
+||venetrigni.com^
 ||venuegirtjive.com^
 ||veodxsimctsgs.com^
 ||veoujrnenng.com^
@@ -12258,6 +12267,7 @@ vkcdnservice.appspot.com^
 ||vxneczkffmaxkf.com^
 ||vxnejgcewmbuk.com^
 ||vxrpmslex.com^
+||vxzgwlbcpdygh.com^
 ||vyagpffxvs.com^
 ||vyatdrilrtgeh.com^
 ||vyhezucha.pro^
@@ -12665,6 +12675,7 @@ vkcdnservice.appspot.com^
 ||xdvbhfkeib.com^
 ||xeafosrhjk.com^
 ||xebadu.com^
+||xecbvdgmwsh.com^
 ||xeiwcnwmlv.com^
 ||xel-xel-fie.com^
 ||xelllwrite.com^
