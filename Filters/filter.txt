@@ -3,7 +3,7 @@
 ! Description: Filter composed of several other filters (AdGuard Base filter, Social media filter, Tracking Protection filter, Mobile ads filter, EasyList, EasyPrivacy, etc) and simplified specifically to be better compatible with DNS-level ad blocking.
 ! Homepage: https://github.com/AdguardTeam/AdguardSDNSFilter
 ! License: https://github.com/AdguardTeam/AdguardSDNSFilter/blob/master/LICENSE
-! Last modified: 2021-02-04T23:04:26.815Z
+! Last modified: 2021-02-05T00:12:46.883Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.8
 !
@@ -34400,7 +34400,6 @@ adbetnet.com
 ! Source name: EasyList China ad servers
 ! Source: https://easylist-downloads.adblockplus.org/easylistchina.txt
 !
-||ckkc.cc^
 ||00-gov.cn^
 ||0024aaaa.com^
 ||00880808.com^
@@ -34845,6 +34844,7 @@ adbetnet.com
 ||cj-cy.com^
 ||cjsdtj.com^
 ||cke199.com^
+||ckkc.cc^
 ||ckseeknew.com^
 ||claz.com.cn^
 ||climbcoder.com^
@@ -37560,10 +37560,6 @@ adbetnet.com
 ||runkao.net^
 ||stunninglover.com^
 ||watakaw133.xyz^
-||juhuandian.com^
-||ubt573.org^
-||huijiamei.cn^
-||ngmaul.cn^
 ||01w47q.cn^
 ||0217qpineuxbcdhopswkvf.xyz^
 ||0224fqpowiuxybnmvdfghj.xyz^
@@ -38505,6 +38501,7 @@ adbetnet.com
 ||huhuhiiuio.com^
 ||huician.cn^
 ||huigoushop.com^
+||huijiamei.cn^
 ||huitiankuaiji.com^
 ||huixingcheng.cn^
 ||hunpp.com^
@@ -38666,6 +38663,7 @@ adbetnet.com
 ||jswnuq.cn^
 ||jsyjwj.com^
 ||jtwlj.cn^
+||juhuandian.com^
 ||julitenj.com^
 ||jullycn.com^
 ||jundazulin.com^
@@ -38927,6 +38925,7 @@ adbetnet.com
 ||netfix8.info^
 ||newknowledge.cn^
 ||ngceq.cn^
+||ngmaul.cn^
 ||ngsaang.top^
 ||nickarini.com^
 ||niegg.com^
@@ -39409,6 +39408,7 @@ adbetnet.com
 ||u0r9.cn^
 ||u2c8.cn^
 ||uauwkfk.cn^
+||ubt573.org^
 ||ububyiw6655.xyz^
 ||uc4a.cn^
 ||ucaii.com^
